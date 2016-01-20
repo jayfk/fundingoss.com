@@ -48,9 +48,13 @@
               <li class="nav-item">
                 <a class="nav-link" href="{% url 'about' %}">About</a>
               </li>
+
             </ul>
 
             <ul class="nav navbar-nav pull-xs-right">
+              <li class="nav-item">
+                <a class="nav-link" href="https://github.com/jayfk/fundingoss.com"><i class="fa fa-github"></i> Contribute</a>
+              </li>
               <li class="nav-item">
                 <a class="btn btn-success" href="{% url 'projects:create' %}">Add Project</a>
               </li>
@@ -75,7 +79,6 @@
     </div> <!-- /container -->
 
     {% block modal %}{% endblock modal %}
-
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
