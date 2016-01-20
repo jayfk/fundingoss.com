@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
 
     <!-- Your stuff: Third-party css libraries go here -->
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- This file store project specific CSS -->
     <link href="{% static 'css/project.css' %}" rel="stylesheet">
     {% endblock %}
@@ -52,7 +52,7 @@
 
             <ul class="nav navbar-nav pull-xs-right">
               <li class="nav-item">
-                <a class="nav-link btn btn-success" href="{% url 'projects:create' %}">Create</a>
+                <a class="btn btn-success" href="{% url 'projects:create' %}">Add Project</a>
               </li>
             </ul>
           </div>
@@ -60,7 +60,7 @@
       </nav>
     </div>
 
-    <div class="container">
+    <div class="container content">
 
       {% if messages %}
           {% for message in messages %}

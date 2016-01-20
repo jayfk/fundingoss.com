@@ -36,3 +36,19 @@
 [hidden][style="display: block;"] {
   display: block !important;
 }
+
+.content{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.well{
+  background-color: #eceeef;
+  margin-top:30px;
+  margin-bottom: 20px;
+}
+
+.info{
+  padding-top:10px;
+  padding-bottom: 20px;
+}

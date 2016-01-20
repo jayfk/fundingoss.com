@@ -1,0 +1,39 @@
+<h3>{{ project.name }}
+  <a href="{% url "projects:detail" %}" class="btn btn-primary btn-sm"><i class="fa fa-comment"></i> </a>
+  <span class="label label-info pull-xs-right">{{ project.funding_status }}</span>
+</h3>
+<div class="info">
+  <div class="row">
+
+    <div class="col-md-3 col-sm-12">
+      <i class="fa fa-users"></i>
+      {% for maintainer in project.maintainers %}
+        {% if maintainer %}
+        <span class="label label-default label-pill"> {{ maintainer }}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="col-md-3 col-sm-12">
+      <i class="fa fa-envelope"></i>
+      <span class="label label-default label-pill"> {{ project.added }}</span>
+    </div>
+    <div class="col-md-3 col-sm-12">
+      <i class="fa fa-link"></i>
+      {% if project.website %}
+      <code>{{ project.website }}</code>
+      {% endif %}
+    </div>
+  </div>
+
+
+</div>
+<div class="row">
+  <div class="col-md-6 col-xs-12 ">
+    <h5>Status</h5>
+    <em>{% if project.funding_status_notes %}{{ project.funding_status_notes }}{% else %}not provided{% endif %}</em>
+  </div>
+  <div class="col-md-6 col-xs-12">
+    <h5>Needs</h5>
+    <em>{% if project.needs %}{{ project.needs }}{% else %}not provided{% endif %}</em>
+  </div>
+</div>
