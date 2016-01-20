@@ -1,10 +1,3 @@
-Guidelines,,,,,,,
-Guidelines,,,,,,,
-2. You can fill in as much or as little as you know about the project,,,,,,,
-"3. Projects that were formerly not well supported or have interesting success stories can also be added below, just mark their status as ""OK""",,,,,,,
-"4. If you think a project shouldn't be on here, add a comment to the project name for review.",,,,,,,
-5. Questions about this spreadsheet? Email nadia.eghbal@gmail.com or tweet @nayafia,,,,,,,
-Project Name,Website,Primary Language or Community,Function,"Name a Maintainer (GitHub, email, Twitter etc)","Who Added This (your GitHub, email, Twitter, etc)",Add'l Notes on Project Needs (1 sentence or less),Status
 Beams,https://github.com/roscoelabs/beams/wiki/Getting-Started-With-Beams,"
 Nginx",secure publishing,pete@roscoelabs.com,Peter McKay (@peteramckay),"We're trying to help the Web's full transition to HTTPS, with a particular focus on news sites.",Beta. Kinda stagnant.
 Free Programming Books,https://github.com/vhf/free-programming-books,-,documentation,https://github.com/vhf/,https://github.com/vhf/,"Needs help maintaining. Unrewarding issue-closing, formatting checks, etc",
