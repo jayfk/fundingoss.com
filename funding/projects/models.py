@@ -6,6 +6,7 @@ from django.contrib.postgres.fields import ArrayField
 
 class Project(models.Model):
 
+    # this needs some more work
     STATUS_CHOICES = (
         ("well_funded", "Well Funded"),
         ("self_funded", "Self Funded"),
