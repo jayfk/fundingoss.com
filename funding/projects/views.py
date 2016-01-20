@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function, unicode_literals
-from django.views.generic import ListView, CreateView
+from django.views.generic import ListView, CreateView, DetailView
 from .models import Project
 
 
@@ -15,3 +15,10 @@ class ProjectCreateView(CreateView):
     template_name = "projects/create.html"
     fields = ("name", "website", "languages", "function", "maintainers", "added", "needs",
               "funding_status", "funding_status_notes")
+
+
+class ProjectDetailView(DetailView):
+
+    model = Project
+    template_name = "projects/detail.html"
+    context_object_name = "project"

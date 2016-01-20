@@ -1,5 +1,5 @@
 <h3>{{ project.name }}
-  <a href="{% url "projects:detail" %}" class="btn btn-primary btn-sm"><i class="fa fa-comment"></i> </a>
+  <a href="{% url "projects:detail" project.pk %}" class="btn btn-primary btn-sm"><i class="fa fa-comment"></i> </a>
   <span class="label label-info pull-xs-right">{{ project.funding_status }}</span>
 </h3>
 <div class="info">
