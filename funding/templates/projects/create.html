@@ -2,5 +2,30 @@
 {% load crispy_forms_tags %}
 
 {% block content %}
-  {{ form|crispy }}
+
+  <div class="row">
+
+    <div class="col-sm-12">
+      <ol>
+        <li>You can fill in as much or as little as you know about the project</li>
+        <li>Projects that were formerly not well supported or have interesting success stories can
+          also
+          be added below, just mark their status as "OK"
+        </li>
+        <li>If you think a project shouldn't be on here, add a comment to the project name for
+          review.
+        </li>
+        <li>Questions about this spreadsheet? Email nadia.eghbal@gmail.com or tweet @nayafia</li>
+      </ol>
+    </div>
+
+    <div class="col-sm-12">
+      <form method="POST" action="{% url "projects:create" %}">
+        {% csrf_token %}
+        {{ form|crispy }}
+        <button class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+  </div>
+
 {% endblock %}

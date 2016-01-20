@@ -56,3 +56,11 @@
 .comments{
   padding-top:30px;
 }
+
+.textInput, .select{
+  width: 50%;
+}
+
+.urlinput{
+  width: 70%;
+}
