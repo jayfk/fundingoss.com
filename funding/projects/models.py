@@ -17,14 +17,18 @@ class Project(models.Model):
     name = models.CharField(max_length=50, unique=True)
     website = models.URLField(max_length=100)
     languages = ArrayField(
-        models.CharField(max_length=100)
+        models.CharField(max_length=100),
+        help_text="Primary Language or Community. (seperate, with, comma)"
     )
     function = models.CharField(max_length=200)
     maintainers = ArrayField(
-        models.CharField(max_length=100)
+        models.CharField(max_length=100),
+        help_text="Name a Maintainer (GitHub, email, Twitter etc. seperate, with, comma)"
     )
-    added = models.CharField(max_length=100)
-    needs = models.TextField(blank=True)
+    added = models.CharField(max_length=100,
+                             help_text="Who Added This (your GitHub, email, Twitter, etc)")
+    needs = models.TextField(blank=True,
+                             help_text="Add'l Notes on Project Needs (1 sentence or less)")
     funding_status = models.CharField(max_length=20, choices=STATUS_CHOICES)
     funding_status_notes = models.TextField(blank=True)
 
