@@ -7,6 +7,7 @@ from . import views
 
 urlpatterns = [
     url(r'^$', views.ProjectListView.as_view(), name="list"),
+    url(r'^json/$', views.ProjectJSONView.as_view(), name="json"),
     url(r'^create/$', views.ProjectCreateView.as_view(), name="create"),
     url(r'^(?P<pk>\d+)/$', views.ProjectDetailView.as_view(), name="detail"),
 ]
