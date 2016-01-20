@@ -27,3 +27,6 @@ class Project(models.Model):
     needs = models.TextField(blank=True)
     funding_status = models.CharField(max_length=20, choices=STATUS_CHOICES)
     funding_status_notes = models.TextField(blank=True)
+
+    class Meta:
+        ordering = ("name",)
