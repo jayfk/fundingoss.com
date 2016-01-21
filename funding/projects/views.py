@@ -7,10 +7,16 @@ from django.contrib import messages
 from braces.views import JSONResponseMixin
 from django.forms.models import model_to_dict
 
+
 class ProjectListView(ListView):
     template_name = "projects/list.html"
     context_object_name = "projects"
     model = Project
+
+    def get_context_data(self, **kwargs):
+        data = super(ProjectListView, self).get_context_data(**kwargs)
+        data["status_choices"] = Project.STATUS_CHOICES
+        return data
 
 
 class ProjectCreateView(CreateView):
