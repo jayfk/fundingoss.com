@@ -64,3 +64,11 @@
 .urlinput{
   width: 70%;
 }
+
+.row.status{
+  padding-bottom: 15px;
+}
+
+.label-language{
+  margin-right: 15px;
+}
