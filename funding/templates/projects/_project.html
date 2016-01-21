@@ -1,6 +1,9 @@
+{% load projects_tags %}
+
 <h3>{{ project.name }}
   <a href="{% url "projects:detail" project.pk %}" class="btn btn-primary btn-sm"><i class="fa fa-comment"></i> </a>
   <span class="label label-info pull-xs-right">{{ project.funding_status }}</span>
+  {% status_label project.funding_status %}
 </h3>
 <div class="info">
   <div class="row">
