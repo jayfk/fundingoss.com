@@ -14,6 +14,7 @@ class Project(models.Model):
         ("unknown", "Unknown")
     )
 
+    created_at = models.DateTimeField(auto_now_add=True)
     name = models.CharField(max_length=50, unique=True)
     website = models.URLField(max_length=100)
     languages = ArrayField(
