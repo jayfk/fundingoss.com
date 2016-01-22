@@ -21,7 +21,7 @@ class Project(models.Model):
         models.CharField(max_length=100),
         help_text="Primary Language or Community. (seperate, with, comma)"
     )
-    function = models.CharField(max_length=200)
+    function = models.TextField(blank=True)
     maintainers = ArrayField(
         models.CharField(max_length=100),
         help_text="Name a Maintainer (GitHub, email, Twitter etc. seperate, with, comma)"
