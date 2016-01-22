@@ -23,7 +23,7 @@ class ProjectCreateView(CreateView):
     model = Project
     template_name = "projects/create.html"
     fields = ("name", "website", "languages", "function", "maintainers", "added", "needs",
-              "funding_status", "funding_status_notes")
+              "funding_status", "funding_status_notes", "license")
     success_url = reverse_lazy("projects:list")
 
     def form_valid(self, form):

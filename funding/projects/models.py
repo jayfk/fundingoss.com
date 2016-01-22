@@ -14,6 +14,19 @@ class Project(models.Model):
         ("unknown", "Unknown")
     )
 
+    LICENSE_CHOICES = (
+        ("apache_2", "Apache 2.0"),
+        ("bsd_3", "BSD 3-Clause (New)"),
+        ("bsd_2", "BSD 2-Clause (FreeBSD)"),
+        ("gpl", "GPL"),
+        ("lgpl", "LGPL"),
+        ("mit", "MIT"),
+        ("mpl", "Mozilla Public License 2.0"),
+        ("epl", "Eclipse Public License"),
+        ("unknown", "Unknown"),
+        ("other", "Other")
+    )
+
     created_at = models.DateTimeField(auto_now_add=True)
     name = models.CharField(max_length=50, unique=True)
     website = models.URLField(max_length=100)
@@ -32,6 +45,7 @@ class Project(models.Model):
                              help_text="Add'l Notes on Project Needs (1 sentence or less)")
     funding_status = models.CharField(max_length=20, choices=STATUS_CHOICES)
     funding_status_notes = models.TextField(blank=True)
+    license = models.CharField(max_length=20, choices=LICENSE_CHOICES, default="unknown")
 
     class Meta:
         ordering = ("name",)
