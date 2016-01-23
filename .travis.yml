@@ -5,4 +5,15 @@ services:
 
 script:
   - cp .env.travis .env
-  - docker-compose run django python manage.py test
+  - docker-compose run django bash -c "python manage.py collectstatic --no-input && python manage.py test"
+  - pip install -r requirements.txt
+  - pip install -r requirements/local.txt
+  - coverage run manage.py test
+language: python
+python:
+  - "3.5"
+
+before_install:
+  - pip install codecov
+after_success:
+  - codecov
