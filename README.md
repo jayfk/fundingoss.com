@@ -1,5 +1,6 @@
 fundingoss.com
 ==============
+[![Build Status](https://travis-ci.org/jayfk/fundingoss.com.svg?branch=master)](https://travis-ci.org/jayfk/fundingoss.com)
 
 A simple Django app to list OSS projects that need better support (whether funding or contributors). The purpose of this site is to provide a public list of what isn't currently well-supported in OSS, all in one place. What you do with this information is up to you (but I have some ideas...).
 
