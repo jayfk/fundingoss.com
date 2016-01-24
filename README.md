@@ -1,6 +1,9 @@
 fundingoss.com
 ==============
+[![Updates](https://pyup.io/repos/github/jayfk/fundingosscom/shield.svg)](https://pyup.io/repos/github/jayfk/fundingosscom/)
 [![Build Status](https://travis-ci.org/jayfk/fundingoss.com.svg?branch=master)](https://travis-ci.org/jayfk/fundingoss.com)
+[![codecov.io](https://codecov.io/github/jayfk/fundingoss.com/coverage.svg?branch=master)](https://codecov.io/github/jayfk/fundingoss.com?branch=master)
+
 
 A simple Django app to list OSS projects that need better support (whether funding or contributors). The purpose of this site is to provide a public list of what isn't currently well-supported in OSS, all in one place. What you do with this information is up to you (but I have some ideas...).
 
