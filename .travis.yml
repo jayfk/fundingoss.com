@@ -8,6 +8,7 @@ script:
   - docker-compose run django bash -c "python manage.py collectstatic --no-input && python manage.py test"
   - pip install -r requirements.txt
   - pip install -r requirements/local.txt
+  - export DJANGO_SETTINGS_MODULE=config.settings.local
   - coverage run manage.py test
 language: python
 python:
