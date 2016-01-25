@@ -41,4 +41,4 @@ redis>=2.10.0
 # tests
 django-test-plus==1.0.11
 factory_boy==2.6.0
-codecov
+codecov==1.6.3 # pyup: <1.6.4
