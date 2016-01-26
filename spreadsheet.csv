@@ -62,7 +62,7 @@ Briefcase,http://pybee.org/briefcase,Python,Packaging,@pybeeware,@freakboy3742,D
 R,r-project.org,,Programming Language for Data Analysis,,@gurinovich,,
 mod_wsgi,http://www.modwsgi.org/,Python,Web deployment,@GrahamDumpleton,@freakboy3742,,
 RubyGems,https://rubygems.org/,Ruby,"Ruby package manager and hosting for Ruby gems (i.e. ""packages"")",https://github.com/orgs/rubygems/people,@nayafia,,essential Ruby infrastructure
-Brew (& Cask),http://brew.sh/,Python,Package Manager for OSX,https://github.com/mistydemeo,@carribeiro,,"Fundamental piece of software to allow developers to write open source on Mac,"
+Homebrew,http://brew.sh/,Python,Package Manager for OSX,https://github.com/mistydemeo,@carribeiro,,"Fundamental piece of software to allow developers to write open source on Mac,"
 coverage.py,http://coverage.readthedocs.org,Python,Testing,@nedbat,@nedbat,,"OK - mostly a solo project, could use bug triaging help"
 FreeNAS,http://www.freenas.org/,Ruby,Storage,,@carribeiro,,Professional level storage system
 Django Packages,https://www.djangopackages.com,Python,Index of Django packages,@pydanny,@pydanny,Hosting is really expensive because on Heroku. Not enough time to move to Docker to reduce costs.,OK - could be better with funding
