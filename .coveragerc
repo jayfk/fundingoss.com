@@ -1,5 +1,5 @@
 [run]
 include = funding/*
-omit = *migrations*, *tests*, *settings*
+omit = *migrations*, *tests*, *settings*, *templates*
 plugins =
     django_coverage_plugin

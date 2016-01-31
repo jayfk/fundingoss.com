@@ -35,8 +35,13 @@ class TestProjectCreateView(TestCase):
 
 
 class TestProjectDetailView(TestCase):
-    pass
 
+    def setUp(self):
+        self.project = ProjectFactory()
+
+    def test_template(self):
+        resp = self.client.get(reverse("projects:detail", kwargs={"pk": self.project.pk}))
+        self.assertContains(resp, "disqus_thread")
 
 class TestProjectJSONView(TestCase):
 
