@@ -6,6 +6,7 @@ from django.core.urlresolvers import reverse_lazy
 from django.contrib import messages
 from braces.views import JSONResponseMixin
 from django.forms.models import model_to_dict
+from . import forms
 
 
 class ProjectListView(ListView):
@@ -20,10 +21,10 @@ class ProjectListView(ListView):
 
 
 class ProjectCreateView(CreateView):
-    model = Project
+    #model = Project
     template_name = "projects/create.html"
-    fields = ("name", "website", "languages", "function", "maintainers", "added", "needs",
-              "funding_status", "funding_status_notes", "license")
+    form_class = forms.ProjectForm
+
     success_url = reverse_lazy("projects:list")
 
     def form_valid(self, form):

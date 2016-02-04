@@ -4,12 +4,13 @@ from django.utils.safestring import mark_safe
 from ..models import Project
 register = template.Library()
 
+
 @register.simple_tag(name="status_label")
 def status_label(status):
     css_map = {
         "well_funded": "success",
-        "self_funded": "warning",
-        "no_funding":  "danger",
+        "somewhat_funded": "warning",
+        "no_funding": "danger",
         "unknown": "default"
     }
 

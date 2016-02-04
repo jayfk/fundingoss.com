@@ -6,12 +6,19 @@ from django.contrib.postgres.fields import ArrayField
 
 class Project(models.Model):
 
-    # this needs some more work
     STATUS_CHOICES = (
         ("well_funded", "Well Funded"),
-        ("self_funded", "Self Funded"),
+        ("somewhat_funded", "Somewhat funded"),
         ("no_funding", "No Funding"),
         ("unknown", "Unknown")
+    )
+
+    FUNDING_TYPE_CHOICES = (
+        ("corporate", "Corporate"),
+        ("individual", "Individual"),
+        ("foundation", "Foundation"),
+        ("academia", "Academia"),
+        ("consulting_services", "Consulting/Services"),
     )
 
     LICENSE_CHOICES = (
@@ -45,6 +52,12 @@ class Project(models.Model):
                              help_text="Add'l Notes on Project Needs (1 sentence or less)")
     funding_status = models.CharField(max_length=20, choices=STATUS_CHOICES)
     funding_status_notes = models.TextField(blank=True)
+    funding_type = ArrayField(
+        models.CharField(max_length=30, choices=FUNDING_TYPE_CHOICES),
+        help_text="Where do you receive funding from? (Leave empty if no funding)",
+        blank=True,
+        default=[]
+    )
     license = models.CharField(max_length=20, choices=LICENSE_CHOICES, default="unknown")
 
     class Meta:
