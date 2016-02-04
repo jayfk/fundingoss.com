@@ -121,3 +121,7 @@
 .row.search{
   padding-bottom: 25px;
 }
+
+label{
+  font-weight: 600;
+}
