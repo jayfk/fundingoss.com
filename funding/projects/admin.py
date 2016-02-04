@@ -6,6 +6,10 @@ from .models import Project
 
 class ProjectAdmin(admin.ModelAdmin):
     model = Project
-    list_display = ("name", "funding_status", "maintainers", "added", "website")
+    list_display = (
+        "name", "funding_status", "license", "added", "website"
+    )
+    list_editable = list_display
+    search_fields = ['name']
 
 admin.site.register(Project, ProjectAdmin)
