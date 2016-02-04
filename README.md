@@ -16,7 +16,7 @@ Visit the site at [fundingoss.com](http://fundingoss.com)
 Contributions
 =============================
 
-Contributions are more than welcome. Just make a pull request and we'll push your code.
+Please take a look at [how to contribute](https://github.com/jayfk/fundingoss.com/blob/master/CONTRIBUTING.md).
 
 
 Data
