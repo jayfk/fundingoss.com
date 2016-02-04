@@ -6,6 +6,19 @@
   <span class="label label-info pull-xs-right label-pill label-language">{% for language in project.languages %}{{ language }}{% if not forloop.last %}/{% endif %}{% endfor %}</span>
 </h3>
 
+
+<div class="row status">
+  <div class="col-md-6 col-xs-12 ">
+    <h5>Type of funding</h5>
+    {% if project.funding_type %}
+    <em>{% for type in project.displayable_funding_types %}{{ type }}{% if not forloop.last %}, {% endif %}{% endfor %}</em>
+      {% else %}
+      <em>no funding</em>
+    {% endif %}
+  </div>
+</div>
+
+
 <div class="row status">
   <div class="col-md-6 col-xs-12 ">
     <h5>Status</h5>

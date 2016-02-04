@@ -62,3 +62,8 @@ class Project(models.Model):
 
     class Meta:
         ordering = ("name",)
+
+    def displayable_funding_types(self):
+        type_map = dict(self.FUNDING_TYPE_CHOICES)
+        for item in self.funding_type:
+            yield type_map[item]
