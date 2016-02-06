@@ -27,6 +27,7 @@ class Project(models.Model):
         ("bsd_2", "BSD 2-Clause (FreeBSD)"),
         ("gpl", "GPL"),
         ("lgpl", "LGPL"),
+        ("gagpl3", "GNU Affero General Public License 3"),
         ("mit", "MIT"),
         ("mpl", "Mozilla Public License 2.0"),
         ("epl", "Eclipse Public License"),
