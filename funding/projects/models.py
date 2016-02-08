@@ -25,6 +25,8 @@ class Project(models.Model):
         ("apache_2", "Apache 2.0"),
         ("bsd_3", "BSD 3-Clause (New)"),
         ("bsd_2", "BSD 2-Clause (FreeBSD)"),
+        ("cddl1", "Common Development and Distribution License 1.0"),
+        ("gagpl3", "GNU Affero General Public License 3"),
         ("gpl", "GPL"),
         ("lgpl", "LGPL"),
         ("mit", "MIT"),
