@@ -13,7 +13,7 @@
     {% if project.funding_type %}
     <em>{% for type in project.displayable_funding_types %}{{ type }}{% if not forloop.last %}, {% endif %}{% endfor %}</em>
       {% else %}
-      <em>no funding</em>
+      <em>unknown</em>
     {% endif %}
   </div>
 </div>
