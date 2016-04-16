@@ -33,7 +33,7 @@ class Project(models.Model):
         ("LGPL-3.0", "GNU Lesser General Public License v3.0"),
         ("MIT", "MIT License"),
         ("MPL-2.0", "Mozilla Public License 2.0"),
-        ("EPL-1.0", "Eclipse Public License"),
+        ("EPL-1.0", "Eclipse Public License 1.0"),
         ("unknown", "Unknown"),
         ("other", "Other")
     )
