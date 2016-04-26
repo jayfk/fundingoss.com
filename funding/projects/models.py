@@ -22,16 +22,18 @@ class Project(models.Model):
     )
 
     LICENSE_CHOICES = (
-        ("apache_2", "Apache 2.0"),
-        ("bsd_3", "BSD 3-Clause (New)"),
-        ("bsd_2", "BSD 2-Clause (FreeBSD)"),
-        ("cddl1", "Common Development and Distribution License 1.0"),
-        ("gagpl3", "GNU Affero General Public License 3"),
-        ("gpl", "GPL"),
-        ("lgpl", "LGPL"),
-        ("mit", "MIT"),
-        ("mpl", "Mozilla Public License 2.0"),
-        ("epl", "Eclipse Public License"),
+        ("Apache-2.0", "Apache License 2.0"),
+        ("BSD-3-Clause", "BSD 3-clause \"New\" or \"Revised\" License"),
+        ("BSD-2-Clause", "BSD 2-clause \"Simplified\" License"),
+        ("CDDL-1.0", "Common Development and Distribution License 1.0"),
+        ("AGPL-3.0", "GNU Affero General Public License v3.0"),
+        ("GPL-2.0", "GNU General Public License v2.0"),
+        ("GPL-3.0", "GNU General Public License v3.0"),
+        ("LGPL-2.1", "GNU Lesser General Public License v2.1"),
+        ("LGPL-3.0", "GNU Lesser General Public License v3.0"),
+        ("MIT", "MIT License"),
+        ("MPL-2.0", "Mozilla Public License 2.0"),
+        ("EPL-1.0", "Eclipse Public License 1.0"),
         ("unknown", "Unknown"),
         ("other", "Other")
     )
