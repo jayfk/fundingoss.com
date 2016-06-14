@@ -9,4 +9,4 @@ django-extensions==1.6.1
 django-debug-toolbar==1.4
 
 # improved REPL
-ipdb==0.8.1
+ipdb==0.10.1
