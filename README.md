@@ -1,3 +1,5 @@
+*fundingoss.com is now in read-only mode.*
+
 fundingoss.com
 ==============
 [![Updates](https://pyup.io/repos/github/jayfk/fundingosscom/shield.svg)](https://pyup.io/repos/github/jayfk/fundingosscom/)
@@ -22,7 +24,7 @@ Please take a look at [how to contribute](https://github.com/jayfk/fundingoss.co
 Data
 =========
 
-The site has an endpoint that dumps all submitted projects as [json](http://fundingoss.com/json/).
+The site has an endpoint that dumps all submitted projects as [json](http://fundingoss.com/json.json).
 
 
 LICENSE: BSD

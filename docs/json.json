@@ -1,0 +1,3208 @@
+{
+  "projects": [
+    {
+      "website": "http://9front.org/",
+      "id": 102,
+      "added": "http://twitter.com/kxra, https://github.com/kxra",
+      "funding_type": [],
+      "name": "9Front (fork of Plan 9)",
+      "function": "Operating System",
+      "license": "unknown",
+      "languages": [
+        "Highly Influential Experimental OSdev"
+      ],
+      "needs": "Contributors, major hardware company involvement, embedded partnerships, funding",
+      "maintainers": [
+        "http://9front.org/who/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/angular-fullstack/generator-angular-fullstack",
+      "id": 150,
+      "added": "https://github.com/Awk34",
+      "funding_type": [],
+      "name": "Angular Full-Stack Generator",
+      "function": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node - lets you quickly set up a project following best practices.",
+      "license": "bsd_3",
+      "languages": [
+        "JavaScript",
+        "Node.js",
+        "TypeScript",
+        "Angular"
+      ],
+      "needs": "Small feature contributions, user surveying",
+      "maintainers": [
+        "https://github.com/Awk34"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://ui-grid.info/",
+      "id": 9,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Angular UI-Grid",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "Clojure"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://falcon.apache.org/",
+      "id": 24,
+      "added": "ajayyadava@apache.org",
+      "funding_type": [],
+      "name": "Apache Falcon",
+      "function": "data governance for Hadoop",
+      "license": "unknown",
+      "languages": [
+        "Java"
+      ],
+      "needs": "Software contributions",
+      "maintainers": [
+        "ajayyadava@apache.org"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://apache.org",
+      "id": 40,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "Apache HTTPD Server",
+      "function": "Web server",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "na"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK?"
+    },
+    {
+      "website": "https://github.com/jruby/activerecord-jdbc-adapter",
+      "id": 96,
+      "added": "twitter.com/kbucek",
+      "funding_type": [],
+      "name": "AR-JDBC",
+      "function": "ActiveRecord for JRuby",
+      "license": "unknown",
+      "languages": [
+        "JRuby",
+        "Rails"
+      ],
+      "needs": "Help for compliance with Rails 5. Or support finishing up performance optimizations",
+      "maintainers": [
+        "@kares"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "widely used with JRuby (on Rails) sites as it supports dozens of JDBC adapters out-of-the-box"
+    },
+    {
+      "website": "http://asciidoctor.org",
+      "id": 99,
+      "added": "@mojavelinux",
+      "funding_type": [],
+      "name": "Asciidoctor",
+      "function": "Publishing toolchain",
+      "license": "unknown",
+      "languages": [
+        "Ruby",
+        "Java"
+      ],
+      "needs": "Needs ongoing R&D funding to allow maintainers to work on it on a daily basis. See https://salt.bountysource.com/teams/asciidoctor for details.",
+      "maintainers": [
+        "@mojavelinux"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "widely used in open source documentation"
+    },
+    {
+      "website": "http://www.ats-lang.org/",
+      "id": 110,
+      "added": "https://github.com/kxra, http://twitter.com/kxra/",
+      "funding_type": [],
+      "name": "ATS (Applied Type System)",
+      "function": "Programming Language",
+      "license": "unknown",
+      "languages": [
+        "statically typed programming"
+      ],
+      "needs": "funding, advanced programmers",
+      "maintainers": [
+        "https://github.com/ats-lang",
+        "https://github.com/githwxi"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/roscoelabs/beams/wiki/Getting-Started-With-Beams",
+      "id": 1,
+      "added": "Peter McKay (@peteramckay)",
+      "funding_type": [],
+      "name": "Beams",
+      "function": "secure publishing",
+      "license": "unknown",
+      "languages": [
+        "Nginx"
+      ],
+      "needs": "We're trying to help the Web's full transition to HTTPS, with a particular focus on news sites.",
+      "maintainers": [
+        "pete@roscoelabs.com"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Beta. Kinda stagnant."
+    },
+    {
+      "website": "http://www.crummy.com/software/BeautifulSoup/",
+      "id": 77,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "Beautiful Soup",
+      "function": "screen scraping",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "customer service, bug triage",
+      "maintainers": [
+        "http://crummy.com/software/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "very widely used among Python programmers, especially beginners; no funding available, 1-2 developers serve as maintainers"
+    },
+    {
+      "website": "http://getbootstrap.com",
+      "id": 118,
+      "added": "@cvrebert",
+      "funding_type": [],
+      "name": "Bootstrap",
+      "function": "CSS framework & jQuery widgets",
+      "license": "unknown",
+      "languages": [
+        "Web Frontend",
+        "CSS",
+        "Sass",
+        "JS"
+      ],
+      "needs": "Large number of open bug reports to deal with; in need of another skilled JS maintainer; could use more testing infrastructure.",
+      "maintainers": [
+        "@mdo"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Most-starred project on GitHub. No longer associated with/sponsored by Twitter. Maintainers work on it in their spare time. Closest thing to a monetization model is http://themes.getbootstrap.com/"
+    },
+    {
+      "website": "http://pybee.org/briefcase",
+      "id": 59,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "Briefcase",
+      "function": "Packaging",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Developers and developer funding reqd",
+      "maintainers": [
+        "@pybeeware"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Early stage development"
+    },
+    {
+      "website": "http://oscar.cs.stonybrook.edu/projects/betrfs/",
+      "id": 112,
+      "added": "https://github.com/kxra, https://twitter.com/kxra/",
+      "funding_type": [],
+      "name": "Bðœ€trFS",
+      "function": "Next Generation BÎµ-tree File System, or BetrFS, (uses fractal tree index, leaps ahead of b-trees)",
+      "license": "unknown",
+      "languages": [
+        "All GNU/Linux",
+        "Unix",
+        "BSD environments"
+      ],
+      "needs": "development, promotion, bug testing, funding, partners",
+      "maintainers": [
+        "https://github.com/oscarlab/betrfs",
+        "https://twitter.com/sbucompsc"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.bufferbloat.net",
+      "id": 129,
+      "added": "dave.taht@gmail.com",
+      "funding_type": [],
+      "name": "Bufferbloat Project",
+      "function": "The bufferbloat project has been developing ways to make the edge of the internet faster under load, creating new network queue algorithms like fq_codel and cake, getting them out there as \"sqm-scripts\", widely distributed in aftermarket (openwrt, linux), and factory default firmware (many) and participating in standardization efforts in the IETF. The next big project is to get \"make-wifi-fast\" off the ground. Getting these algorithms to work on several popular wifi chipsets is going to take thought, time, people, tools, testing - all of which are underesourced and underfunded. Given the scope of the worldwide bufferbloat problem ( see: http://www.dslreports.com/speedtest/results/bufferbloat/?up=1 ) and a more readily available set of fixes for it ( cable modem fix example: http://burntchrome.blogspot.com/2014/05/fixing-bufferbloat-on-comcasts-blast.html) it would be nice to be making more of a dent in this as wifi densities go up with ever more latency.\r\n\r\nWe can make the edge of the internet so much better!",
+      "license": "bsd_3",
+      "languages": [
+        "C"
+      ],
+      "needs": "Industry partners\r\nOpen wifi firmware\r\nBuild/QA engineer\r\nDense wifi testbeds (IoT)\r\ninteroperability testing\r\nISPs/CPE maker partnerships",
+      "maintainers": [
+        "https://github.com/dtaht"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Over the years some funding has been had from donors, nlnet, shuttleworth foundation and from comcast research and google fiber.  There is an active campaign for more on https://gofundme/savewifi for example."
+    },
+    {
+      "website": "http://bundler.io/",
+      "id": 58,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "bundler",
+      "function": "Ruby dependency management",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://calagator.org/",
+      "id": 86,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "Calagator",
+      "function": "calendar aggregator",
+      "license": "unknown",
+      "languages": [
+        "Rails"
+      ],
+      "needs": "marketing, release management, code review",
+      "maintainers": [
+        "https://github.com/shawnacscott"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "stewarded by Stumptown Syndicate, Portland-area nonprofit"
+    },
+    {
+      "website": "https://www.npmjs.com/package/cash",
+      "id": 94,
+      "added": "@dthree",
+      "funding_type": [],
+      "name": "Cash",
+      "function": "Linux commands for Windows",
+      "license": "unknown",
+      "languages": [
+        "Devs on Windows"
+      ],
+      "needs": "Haven't released this yet, but it's a very broad-scale item that will likely gather a ton of users. Again maintainers. I work non-profit for long hours and don't have too much time.",
+      "maintainers": [
+        "@dthree"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://casperjs.org/",
+      "id": 54,
+      "added": "@DavidBruant",
+      "funding_type": [],
+      "name": "CasperJS",
+      "function": "Testing",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Contributors",
+      "maintainers": [
+        "@n1k0"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://cffi.readthedocs.org",
+      "id": 19,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "cffi",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C",
+        "Python"
+      ],
+      "needs": "Way to call C from Python, extremely popular",
+      "maintainers": [
+        "Armin Rigo",
+        "@fijall"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://chef.io/",
+      "id": 136,
+      "added": "coderanger",
+      "funding_type": [],
+      "name": "Chef",
+      "function": "DevOps automation.",
+      "license": "apache_2",
+      "languages": [
+        "Ruby",
+        "Erlang"
+      ],
+      "needs": "Diversified financial backing.",
+      "maintainers": [
+        "Chef Softare and misc others"
+      ],
+      "funding_status": "well_funded",
+      "funding_status_notes": "VC-backed company employs many, but not all, of the maintainers. Non-Chef Software employees are all over the place, some contribute as part of their day job, many do not."
+    },
+    {
+      "website": "https://github.com/deanmao/node-chimera",
+      "id": 132,
+      "added": "https://github.com/deepakprabhakara",
+      "funding_type": [],
+      "name": "Chimera",
+      "function": "Chimera: A new kind of phantom for NodeJS\r\n\r\nChimera was inspired by PhantomJS and wanted something similar, but could be run inside of the nodejs environment, without calling out to an external process. PhantomJS is run as an external process that users can run under any language, however one must create a fancy glue wrapper so that development isn't impaired. Chimera creates something that does exactly what phantomjs is capable of doing, except in a full js environment.",
+      "license": "bsd_2",
+      "languages": [
+        "javascript"
+      ],
+      "needs": "Project hasn't been updated since 3 years during which time nodejs has progressed to v5.x. The last node version supported is v0.8.x. Need more maintainers.",
+      "maintainers": [
+        "https://github.com/deanmao"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://chocolatey.org/",
+      "id": 92,
+      "added": "pydanny",
+      "funding_type": [],
+      "name": "Chocolatey",
+      "function": "Like apt or homebrew, but for Windows",
+      "license": "unknown",
+      "languages": [
+        "Coders on Windows"
+      ],
+      "needs": "Maintainers seem to hope to be able to provide commercial support some day",
+      "maintainers": [
+        "??"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Large set of packages, millions of dollars, gets $2.15/week of tips from Gittip"
+    },
+    {
+      "website": "http://ckan.org",
+      "id": 67,
+      "added": "@jqnatividad",
+      "funding_type": [],
+      "name": "CKAN",
+      "function": "Data Platform",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "used to run hundreds of data portals around the world. Including data.gov & data.gov.uk",
+      "maintainers": [
+        "@OKFN"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Fundamental software for govtech/smartcities. Healthy ecosystem of users/plugin contributors, but funding of core work sporadic"
+    },
+    {
+      "website": "https://github.com/audreyr/cookiecutter",
+      "id": 38,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "cookiecutter",
+      "function": "An extendable command-line utility that works everywhere on all maintained Python versions that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects, LaTeX projcts.",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Funding to allow maintainers the time needed to add functionality, ensure cross platform stability, and support the necessary time and effort in evaluating pull requests",
+      "maintainers": [
+        "@audreyr",
+        "@pydanny"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.gnu.org/software/coreutils",
+      "id": 100,
+      "added": "P@draigBrady.com",
+      "funding_type": [],
+      "name": "coreutils",
+      "function": "The 100 or so core utilities of any GNU/Linux distribution, and portable to other systems",
+      "license": "unknown",
+      "languages": [
+        "c"
+      ],
+      "needs": "There is a large backlog of tasks including http://www.pixelbeat.org/docs/coreutils_i18n/",
+      "maintainers": [
+        "P@draigBrady.com"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://couchdb.apache.org",
+      "id": 21,
+      "added": "@janl",
+      "funding_type": [],
+      "name": "CouchDB",
+      "function": "Database",
+      "license": "unknown",
+      "languages": [
+        "Erlang",
+        "JavaScript"
+      ],
+      "needs": "Erlang devs, frontend JavaScript devs (React), testers, QA, documentation, writers, desingers",
+      "maintainers": [
+        "https://twitter.com/janl"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Going strong, major 2.0 release coming up."
+    },
+    {
+      "website": "http://coverage.readthedocs.org",
+      "id": 64,
+      "added": "@nedbat",
+      "funding_type": [],
+      "name": "coverage.py",
+      "function": "Testing",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@nedbat"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK - mostly a solo project, could use bug triaging help"
+    },
+    {
+      "website": "https://cryptography.io/en/latest/",
+      "id": 124,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "cryptography",
+      "function": "crypto",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@reaperhulk"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://crystal-lang.org",
+      "id": 20,
+      "added": "@smpalladino",
+      "funding_type": [],
+      "name": "Crystal",
+      "function": "Programming Language",
+      "license": "unknown",
+      "languages": [
+        "Crystal"
+      ],
+      "needs": "Stable funding for improving on the language and launching 1.0 version.",
+      "maintainers": [
+        "https://github.com/asterite/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Has very limited funding via bountysource salt."
+    },
+    {
+      "website": "https://github.com/d3",
+      "id": 26,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "D3",
+      "function": "Graphical visualization",
+      "license": "unknown",
+      "languages": [
+        "Javascript"
+      ],
+      "needs": "Mike Bostock is re-writing a new version on his own time, unfunded, despite this being used my so many people and organizations to fill an important gap in visualizing data.",
+      "maintainers": [
+        "https://github.com/mbostock"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://xiph.org/daala/",
+      "id": 105,
+      "added": "https://github.com/kxra, http://twitter.com/kxra",
+      "funding_type": [],
+      "name": "Daala",
+      "function": "Codec",
+      "license": "unknown",
+      "languages": [
+        "Web Video"
+      ],
+      "needs": "funding and advanced codec developers",
+      "maintainers": [
+        "https://github.com/xiph",
+        "https://xiph.org/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.dash.org/evolution/",
+      "id": 107,
+      "added": "https://twitter.com/kxra, https://github.com/kxra",
+      "funding_type": [],
+      "name": "Dash Evolution",
+      "function": "Next Generation Cryptocurrency",
+      "license": "unknown",
+      "languages": [
+        "Bitcoin",
+        "Crypto",
+        "Decentralization"
+      ],
+      "needs": "funding, partnerships, development",
+      "maintainers": [
+        "https://github.com/dashpay/dash",
+        "https://twitter.com/dashpay"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://david-dm.org/",
+      "id": 11,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "David-dm",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "Devops"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://p3rl.org/DBIx::Class",
+      "id": 33,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "DBIx::Class (+ deps)",
+      "function": "ORM-like RDBMS connector",
+      "license": "unknown",
+      "languages": [
+        "Perl"
+      ],
+      "needs": "Architect in final stages of leaving project, unable to continue without solid funding for the full-time effort required",
+      "maintainers": [
+        "@ribasushi"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.debian.org/devel/debian-med/",
+      "id": 142,
+      "added": "@biocrusoe / mr-c",
+      "funding_type": [],
+      "name": "debian-med",
+      "function": "The Debian Med group is dedicated to maintaining software packages of medical and biological interest within the larger volunteer framework that is the Debian Linux distribution. The focus is on the user of the software: to ensure that the applications and software libraries are easy to install, that documentation is available in predictable ways, and that it will work well with other software. Debian Med bridges the technical gap between the publication of research software and the actual use of it by third parties for use in research, the clinic, or even other technical work like benchmarking.",
+      "license": "other",
+      "languages": [
+        "All (Python",
+        "C",
+        "C++",
+        "Java",
+        "R",
+        "....)"
+      ],
+      "needs": "",
+      "maintainers": [
+        "Andreas Tille <tille@debian.org>"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Community starting to organize for the purpose of getting funding."
+    },
+    {
+      "website": "http://roy.marples.name/projects/dhcpcd/index",
+      "id": 151,
+      "added": "@truebriangorman",
+      "funding_type": [],
+      "name": "dhcpcd",
+      "function": "Most feature rich open source DHCP client. Runs on almost all POSIX platforms. Ships as default DHCP client in a few different Linux, BSD and other *nix distros along with many embedded systems.",
+      "license": "bsd_2",
+      "languages": [
+        "C"
+      ],
+      "needs": "Regression testing, test infrastructure, other maintainers.",
+      "maintainers": [
+        "@rsmarples"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.djangoproject.com/",
+      "id": 39,
+      "added": "@nayafia",
+      "funding_type": [
+        "foundation"
+      ],
+      "name": "Django",
+      "function": "Web framework",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Dev/Event funding ; dev welcomed",
+      "maintainers": [
+        "Django Software Fundation"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/django-debug-toolbar/django-debug-toolbar",
+      "id": 120,
+      "added": "@aymericaugustin",
+      "funding_type": [],
+      "name": "Django Debug Toolbar",
+      "function": "Development tool",
+      "license": "unknown",
+      "languages": [
+        "Python",
+        "Django"
+      ],
+      "needs": "Handling issues & development",
+      "maintainers": [
+        "well",
+        "none"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "No attempt at funding was ever made, despites this being the most downloaded Django library ever."
+    },
+    {
+      "website": "https://www.djangopackages.com",
+      "id": 66,
+      "added": "@pydanny",
+      "funding_type": [],
+      "name": "Django Packages",
+      "function": "Index of Django packages",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Either a stipend for Heroku costs or enough developer time costs to move to a Docker build (Unfortunately is optimized for Heroku)",
+      "maintainers": [
+        "@pydanny"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "OK - could be better with funding"
+    },
+    {
+      "website": "https://docker.com",
+      "id": 22,
+      "added": "@freakboy3742",
+      "funding_type": [
+        "corporate"
+      ],
+      "name": "Docker",
+      "function": "Cloud management",
+      "license": "apache_2",
+      "languages": [
+        "Go"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@docker"
+      ],
+      "funding_status": "well_funded",
+      "funding_status_notes": "OK - *VERY* well funded development"
+    },
+    {
+      "website": "http://dokku.viewdocs.io/dokku/",
+      "id": 87,
+      "added": "@infusionmichael",
+      "funding_type": [],
+      "name": "dokku",
+      "function": "app deployment",
+      "license": "unknown",
+      "languages": [
+        "Shell"
+      ],
+      "needs": "git-based app deployment using heroku buildpacks/dockerfiles + docker",
+      "maintainers": [
+        "https://github.com/josegonzalez\nhttps://github.com/michaelshobbs"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Going strong. Working towards 5th major release soon."
+    },
+    {
+      "website": "http://ensime.github.io/",
+      "id": 147,
+      "added": "@greenrd",
+      "funding_type": [
+        "individual"
+      ],
+      "name": "ENSIME",
+      "function": "Brings IDE support to your favourite text editor - for Scala and Java.",
+      "license": "gpl",
+      "languages": [
+        "Scala"
+      ],
+      "needs": "Contributors.\r\n\r\nWe have monthly Hack Days in London and we buy lunch for attendees at those hack days.",
+      "maintainers": [
+        "@fommil"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": "There are some bounties on issues, but either they're not high enough or we haven't found people interested in working for bounties yet."
+    },
+    {
+      "website": "http://www.exim.org/",
+      "id": 116,
+      "added": "@philpennock (GH, Twitter)",
+      "funding_type": [],
+      "name": "Exim",
+      "function": "Mail Transfer Agent",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "Contributors from companies who rely upon Exim and will support them in their work. \r\nCare and feeding on building out automated infrastructure for testing and other QA work.",
+      "maintainers": [
+        "exim-dev@exim.org"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "A couple of devs are active at any given time, hopefully in jobs where their work on Exim feeds back into their day job.   Exim now runs a majority (not just plurality) of the MTA (mail-server which routes mail) installs on the planet.\r\n\r\nEverything is ad-hoc, and almost all company interaction is people demanding more work for free, with one exception which comes to mind.\r\n\r\n(Person adding project here is a past maintainer and burnt out on it)"
+    },
+    {
+      "website": "http://fabfile.org",
+      "id": 146,
+      "added": "https://github.com/bitprophet",
+      "funding_type": [],
+      "name": "Fabric",
+      "function": "High level CLI task management & SSH API. Used by many organizations for deployment, orchestration, development tasks, etc.",
+      "license": "bsd_2",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Funding for existing maintainer's dev time & assistance with support tasks such as ticket triage.",
+      "maintainers": [
+        "https://github.com/bitprophet"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Maintainer really wants somebody to hire him to work on it & related projects 50+% of the time."
+    },
+    {
+      "website": "http://farmos.org",
+      "id": 141,
+      "added": "https://github.com/mstenta",
+      "funding_type": [],
+      "name": "farmOS",
+      "function": "A web-based application for farm management, planning, and record keeping.",
+      "license": "gpl",
+      "languages": [
+        "PHP",
+        "Drupal"
+      ],
+      "needs": "Farmers to test and use, contributors to help build, interested parties to support/sponsor.",
+      "maintainers": [
+        "https://github.com/mstenta"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://flake8.pycqa.org",
+      "id": 166,
+      "added": "sigmavirus24",
+      "funding_type": [],
+      "name": "flake8",
+      "function": "",
+      "license": "mit",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "sigmavirus24"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.freenas.org/",
+      "id": 65,
+      "added": "@carribeiro",
+      "funding_type": [],
+      "name": "FreeNAS",
+      "function": "Storage",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Professional level storage system"
+    },
+    {
+      "website": "https://freenetproject.org",
+      "id": 140,
+      "added": "ArneBab",
+      "funding_type": [],
+      "name": "Freenet Project",
+      "function": "Freenet provides confidential communication and censorship resistant publishing without a server using a completely decentralized p2p network. Users can choose to only connect to their friends which enables them to hide that they use Freenet in the first place. It provides a globally accessible anonymous datastore.",
+      "license": "gpl",
+      "languages": [
+        "java"
+      ],
+      "needs": "Enough to pay its part time developer, as well as larger funding to adapt Freenet for the needs of journalists and their sources.",
+      "maintainers": [
+        "Thynix",
+        "toad",
+        "nextgens"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/vhf/free-programming-books",
+      "id": 2,
+      "added": "https://github.com/vhf/",
+      "funding_type": [],
+      "name": "Free Programming Books",
+      "function": "documentation",
+      "license": "unknown",
+      "languages": [
+        "-"
+      ],
+      "needs": "Needs help maintaining. Unrewarding issue-closing, formatting checks, etc",
+      "maintainers": [
+        "https://github.com/vhf/"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://trac.osgeo.org/geos",
+      "id": 8,
+      "added": "@pwramsey",
+      "funding_type": [],
+      "name": "GEOS",
+      "function": "Core Library",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "Maintainer funding",
+      "maintainers": [
+        "@ustrk"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Critical to open source geospatial, but under-resources"
+    },
+    {
+      "website": "https://git-scm.com/",
+      "id": 43,
+      "added": "@carribeiro",
+      "funding_type": [],
+      "name": "Git",
+      "function": "Source code control",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "\"Git is a member project of Software Freedom Conservancy, which handles legal and financial needs for the project. Conservancy is currently raising funds to continue their mission. Consider becoming a supporter!\"",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github3.readthedocs.org",
+      "id": 130,
+      "added": "@sigmavirus24",
+      "funding_type": [],
+      "name": "github3.py",
+      "function": "Provide an elegant wrapping of GitHub's API in Python.",
+      "license": "bsd_3",
+      "languages": [
+        "Python"
+      ],
+      "needs": "We need help with performing a documentation overhall and 1.0.0 release.",
+      "maintainers": [
+        "@itsmemattchung",
+        "@sigmavirus24"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.gnu.org/software/libc/libc.html",
+      "id": 15,
+      "added": "Florian Weimer",
+      "funding_type": [],
+      "name": "glibc",
+      "function": "Run-time environment for C (and indirectly C++)",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "glibc switched to an open development model in 2012, after 25 years of relatively closed-down development, and the community has been growing slowly since then.",
+      "maintainers": [
+        "https://sourceware.org/glibc/wiki/MAINTAINERS"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK for now, but huge backlog of old and sometimes complex issues"
+    },
+    {
+      "website": "http://www.gmane.org/",
+      "id": 170,
+      "added": "mkbosmans",
+      "funding_type": [],
+      "name": "Gmane",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "Python",
+        "PHP"
+      ],
+      "needs": "",
+      "maintainers": [
+        "Yomura"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/Muterra/doc-golix",
+      "id": 47,
+      "added": "@nbadg",
+      "funding_type": [],
+      "name": "Golix protocol",
+      "function": "Effortless end-to-end encryption for IoT development",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Dev funding and external audit",
+      "maintainers": [
+        "@nbadg"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Prototype python implementation and WIP cross-language-accessible application"
+    },
+    {
+      "website": "http://graphite.readthedocs.org/en/latest/",
+      "id": 79,
+      "added": "Waldo @gwaldo",
+      "funding_type": [],
+      "name": "Graphite",
+      "function": "Metrics: Time-series database tool",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Active contributors and maintainers willing to test, merge, add tests, document, etc. Tons of pull requests waiting for scrutiny and merging.",
+      "maintainers": [
+        "https://github.com/graphite-project\nhttps://github.com/obfuscurity"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Strong use, but maintained by a small team of already-busy volunteers."
+    },
+    {
+      "website": "https://gratipay.com/",
+      "id": 69,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "Gratipay",
+      "function": "Funding platform",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Gratipay needs legal support (lawyers) to find out how to deal with MTB (money transfer business) regulations to enable simple funding for open source projects",
+      "maintainers": [
+        "@whit537"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/greenkeeperio/greenkeeper",
+      "id": 10,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Greenkeeper",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "Devops"
+      ],
+      "needs": "",
+      "maintainers": [
+        "http://greenkeeper.io/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://growstuff.org/",
+      "id": 81,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "Growstuff",
+      "function": "gardening tracker",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Release management, marketing, code review",
+      "maintainers": [
+        "https://github.com/pozorvlak"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.grpc.io/",
+      "id": 34,
+      "added": "@vladaionescu",
+      "funding_type": [],
+      "name": "gRPC",
+      "function": "RPC",
+      "license": "unknown",
+      "languages": [
+        "Protobuf"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://github.com/ctiller / craig.tiller@gmail.com"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Supported by Google"
+    },
+    {
+      "website": "http://gruntjs.com/",
+      "id": 164,
+      "added": "willbradley",
+      "funding_type": [],
+      "name": "Grunt",
+      "function": "The JavaScript Task Runner",
+      "license": "mit",
+      "languages": [
+        "Javascript"
+      ],
+      "needs": "https://github.com/gruntjs/grunt/issues",
+      "maintainers": [
+        "cowboy",
+        "shama",
+        "vladikoff"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://gulpjs.com/",
+      "id": 163,
+      "added": "willbradley",
+      "funding_type": [],
+      "name": "Gulp",
+      "function": "A fast and intuitive streaming build tool built on Node.js",
+      "license": "mit",
+      "languages": [
+        "Javascript"
+      ],
+      "needs": "https://github.com/gulpjs/gulp/labels/help%20wanted",
+      "maintainers": [
+        "phated",
+        "contra"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "https://gratipay.com/~WeAreFractal/"
+    },
+    {
+      "website": "http://dev.arcbees.com/gwtp/",
+      "id": 134,
+      "added": "imchrisgoudreau",
+      "funding_type": [],
+      "name": "GWTP",
+      "function": "Programming web apps in GWT looks easy at first. However, if you just jump in and start coding, building a truly efficient and scalable app proves to be a lot harder. Your best bet is to design your application for scalability from the start, based on a proven architecture that leverages GWT's best features.\r\n\r\nGWTP (we pronounce it \"goo-teepee\"), is a collection of components for this kind of architecture. No matter which approach you choose, GWT-optimized compilation will make sure only the features you really use are part of your final code.\r\n\r\nAt the heart of GWTP is a model-view-presenter architecture (MVP). Although this model has been lauded as one of the best approaches to GWT development, it is still hard to find an out-of-the-box MVP solution that supports all the requirements of modern web apps. GWTP aims to provide such a solution while reducing the amount of code required to reach it.",
+      "license": "apache_2",
+      "languages": [
+        "Java"
+      ],
+      "needs": "More funding to dedicate time and effort on the next generation of the framework for GWT.",
+      "maintainers": [
+        "imchrisgoudreau"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Service revenue isn't enough to dedicate time."
+    },
+    {
+      "website": "https://halcyon.sh/",
+      "id": 5,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Halcyon",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://happstack.com/",
+      "id": 101,
+      "added": "http://twitter.com/kxra, https://github.com/kxra",
+      "funding_type": [],
+      "name": "Happstack",
+      "function": "Web Framework",
+      "license": "unknown",
+      "languages": [
+        "Haskell"
+      ],
+      "needs": "Steady funding and competent sysadmins and bug reporters to help test and run QA as well as document cases for new features.",
+      "maintainers": [
+        "https://github.com/clckwrks",
+        "http://hub.darcs.net/stepcut",
+        "https://github.com/seereason",
+        "https://github.com/stepcut/",
+        "http://www.seereason.com/",
+        "http://twitter.com/happstack"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://haskellonheroku.com/",
+      "id": 6,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Haskell on Heroku",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://highlightjs.org/",
+      "id": 12,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "highlight.js",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://brew.sh/",
+      "id": 63,
+      "added": "@carribeiro",
+      "funding_type": [],
+      "name": "Homebrew",
+      "function": "Package Manager for OSX",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://github.com/mistydemeo"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Fundamental piece of software to allow developers to write open source on Mac,"
+    },
+    {
+      "website": "http://hood.ie/",
+      "id": 28,
+      "added": "@janl",
+      "funding_type": [],
+      "name": "Hoodie",
+      "function": "Offline First App Server",
+      "license": "unknown",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "JavaScript developers, beginners and experts welcome.",
+      "maintainers": [
+        "https://twitter.com/janl"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Going strong, diverse community, 1.0 release coming up."
+    },
+    {
+      "website": "https://github.com/mvoidex/hsdev",
+      "id": 153,
+      "added": "http://github.com/mvoidex",
+      "funding_type": [
+        "individual"
+      ],
+      "name": "hsdev",
+      "function": "Haskell development library and tool. Scans installed and sourced haskell modules and provides various info about modules and declarations (definition locations, completions, symbol docs and so on), also can be used to check and lint sources.\r\nTool can be used by editors as backend to implement 'go to definition', 'get symbol info', autocompletions etc.\r\nSublimeText's plugin SublimeHaskell already using it.",
+      "license": "bsd_3",
+      "languages": [
+        "Haskell"
+      ],
+      "needs": "",
+      "maintainers": [
+        "http://github.com/mvoidex"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/DRMacIver/hypothesis",
+      "id": 25,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Hypothesis",
+      "function": "Testing",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@DRMacIver"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/impress/impress.js",
+      "id": 157,
+      "added": "https://github.com/FagnerMartinsBrack/",
+      "funding_type": [
+        "individual"
+      ],
+      "name": "impress.js",
+      "function": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. http://impress.github.io/impress.js",
+      "license": "mit",
+      "languages": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "needs": "Help in browser testing, issues/PR triage, a proper website and small features contribution.",
+      "maintainers": [
+        "https://github.com/FagnerMartinsBrack/",
+        "https://github.com/henrikingo/",
+        "https://github.com/bartaz/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Slowly getting on it's track again through community effort, see https://github.com/impress/impress.js/issues/435 for context."
+    },
+    {
+      "website": "https://bitbucket.org/inferno-os/inferno-os/",
+      "id": 103,
+      "added": "http://twitter.com/kxra, https://github.com/kxra",
+      "funding_type": [],
+      "name": "Inferno",
+      "function": "Operating System",
+      "license": "unknown",
+      "languages": [
+        "Highly Influential Experimental OSdev"
+      ],
+      "needs": "embedded systems partnerships, hardware company development, funding",
+      "maintainers": [
+        "http://twitter.com/charles_forsyth",
+        "https://bitbucket.org/inferno-os/",
+        "https://bitbucket.org/forsyth/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://ipfs.io",
+      "id": 90,
+      "added": "@gatesvp",
+      "funding_type": [],
+      "name": "IPFS",
+      "function": "Distributed File System (&internet)",
+      "license": "unknown",
+      "languages": [
+        "Go",
+        "Javascript"
+      ],
+      "needs": "Infrastructure for a new internet needs more than just a handful of devs.",
+      "maintainers": [
+        "@juanbenet"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://ironpython.net",
+      "id": 37,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "IronPython",
+      "function": "Python-on-.Net",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.joomla.org",
+      "id": 125,
+      "added": "https://github.com/chrisdavenport",
+      "funding_type": [],
+      "name": "Joomla!",
+      "function": "Web application platform",
+      "license": "unknown",
+      "languages": [
+        "PHP",
+        "JavaScript"
+      ],
+      "needs": "Some way to keep contributors contributing without them having to worry about paying the bills.",
+      "maintainers": [
+        "https://www.joomla.org/about-joomla/the-project/leadership-team.html"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Whilst funding and sponsorship for the project itself is sufficient to cover infrastructure, legal expenses and some events, we lack a model that will support contributors financially.  If we're going to keep enough people contributing enough time to keep the project relevant, then we need to look after those people.  Relying on volunteers only gets you so far.  To take the project to the next level we need to figure out how to support people to devote themselves full time to the project."
+    },
+    {
+      "website": "https://github.com/jruby/jruby-openssl",
+      "id": 97,
+      "added": "twitter.com/kbucek",
+      "funding_type": [],
+      "name": "JRuby-OpenSSL",
+      "function": "OpenSSL for JRuby",
+      "license": "unknown",
+      "languages": [
+        "JRuby",
+        "Ruby"
+      ],
+      "needs": "Lacking behind MRI OpenSSL. Some long standing missing features (check its and JRuby's issue tracker).",
+      "maintainers": [
+        "@kares"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "widely used (e.g. on every gem install) - part of JRuby distribution."
+    },
+    {
+      "website": "http://junit.org/",
+      "id": 7,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "JUnit",
+      "function": "Testing",
+      "license": "unknown",
+      "languages": [
+        "Java"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://jython.org",
+      "id": 36,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "Jython",
+      "function": "Python-on-Java",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/karma-runner/karma",
+      "id": 126,
+      "added": "dignifiedquire",
+      "funding_type": [],
+      "name": "Karma",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "",
+      "maintainers": [
+        "dignifiedquire"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://kde.org",
+      "id": 17,
+      "added": "schumacher@kde.org",
+      "funding_type": [],
+      "name": "KDE",
+      "function": "Desktop",
+      "license": "unknown",
+      "languages": [
+        "C++"
+      ],
+      "needs": "volunteer project, needs contributors and funding for doing some of the boring but important bits",
+      "maintainers": [
+        "KDE e.V."
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "well-established, but not enough resources to live up to expectations of users"
+    },
+    {
+      "website": "http://kiibohd.com",
+      "id": 16,
+      "added": "@haata",
+      "funding_type": [],
+      "name": "Kiibohd",
+      "function": "HID Firmware and configuration software",
+      "license": "unknown",
+      "languages": [
+        "C",
+        "Python",
+        "Javascript",
+        "PHP"
+      ],
+      "needs": "Designed around KLL to simplify HID device firmware and provide features that should have been in input devices years ago.",
+      "maintainers": [
+        "https://github.com/kiibohd"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Shipping in keyboards since February 2015, currently used in 2 shipping keyboards with more keyboards planned. Needs contributors to help speed up development on more advanced configuration UIs and adding more types of HID devices."
+    },
+    {
+      "website": "https://kivy.org/#home",
+      "id": 50,
+      "added": "@nbadg",
+      "funding_type": [],
+      "name": "Kivy",
+      "function": "Cross-platform NUI",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Donations and development",
+      "maintainers": [
+        "@mathieuvirbel",
+        "@shirtman..."
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://liberapay.com/",
+      "id": 128,
+      "added": "@Changaco",
+      "funding_type": [],
+      "name": "Liberapay",
+      "function": "Recurrent donations platform",
+      "license": "other",
+      "languages": [
+        "python"
+      ],
+      "needs": "More users making and receiving donations, translators, some legal advice, and developers",
+      "maintainers": [
+        "@Changaco"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://libraries.io",
+      "id": 160,
+      "added": "Andrew",
+      "funding_type": [],
+      "name": "Libraries.io",
+      "function": "Libraries.io monitors over 1.3 million open source libraries across 32 different package managers. You can discover new libraries to use in your software projects as well as be notified of new releases to keep your applications secure and up to date.",
+      "license": "gagpl3",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Hosting costs",
+      "maintainers": [
+        "Andrew"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.libreoffice.org/",
+      "id": 98,
+      "added": "@Vecchi_Paolo",
+      "funding_type": [],
+      "name": "LibreOffice",
+      "function": "Office Suite",
+      "license": "unknown",
+      "languages": [
+        ""
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://www.libreoffice.org/about-us/source-code/"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://llvm.org/",
+      "id": 41,
+      "added": "@carribeiro",
+      "funding_type": [],
+      "name": "LLVM",
+      "function": "Compiler",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://llvm.org/svn/llvm-project/website/trunk/ComFunding.html"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK? Don't seem to be needing funds - but its VERY important and needs to be tracked."
+    },
+    {
+      "website": "http://list.org/",
+      "id": 74,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "Mailman",
+      "function": "Mailing list manager",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Release management, internationalization infrastructure port",
+      "maintainers": [
+        "http://barry.warsaw.us/"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Gets some funded work via GSoC and maintainers' employers, and gets occasional hardware, donations, and grants; used very widely for past 2 decades"
+    },
+    {
+      "website": "https://github.com/blendsdk/material-blend",
+      "id": 165,
+      "added": "Gevik Babakhani",
+      "funding_type": [
+        "individual"
+      ],
+      "name": "MaterialBlend",
+      "function": "MaterialBlend is web application framework for developing business web applications with TypeScript and Material Design specifications, provided by Google.",
+      "license": "apache_2",
+      "languages": [
+        "TypeScript",
+        "SASS"
+      ],
+      "needs": "Need financial backing to be able to work on the project fulltime.",
+      "maintainers": [
+        "Gevik Babakhani",
+        "github blendsdk",
+        "twitter @gevik"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "I am developing this framework on my own time."
+    },
+    {
+      "website": "http://www.material-ui.com/",
+      "id": 133,
+      "added": "github.com/srtucker22",
+      "funding_type": [],
+      "name": "Material-UI",
+      "function": "React Components that Implement Google's Material Design.",
+      "license": "mit",
+      "languages": [
+        "English"
+      ],
+      "needs": "",
+      "maintainers": [
+        "github.com/callemall"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://mercurylang.org/",
+      "id": 109,
+      "added": "https://twitter.com/kxra/, https://github.com/kxra",
+      "funding_type": [],
+      "name": "Mercury",
+      "function": "Programming Language",
+      "license": "unknown",
+      "languages": [
+        "logic programming",
+        "functional programming"
+      ],
+      "needs": "funding, advanced programmers",
+      "maintainers": [
+        "https://github.com/Mercury-Language/mercury",
+        "https://twitter.com/mercurylang"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/mingwpy/mingwpy.github.io",
+      "id": 119,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "mingwpy",
+      "function": "GCC compiler that creates binaries compatible with MS Visual C++",
+      "license": "unknown",
+      "languages": [
+        "Python",
+        "C",
+        "assembly"
+      ],
+      "needs": "https://mingwpy.github.io/proposal_december2015.html",
+      "maintainers": [
+        "https://github.com/carlkl",
+        "https://github.com/matthew-brett",
+        "https://github.com/rgommers"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Seems funded to bring it real https://github.com/rgommers/mingwpy.github.io/commit/4bb95ba09267 but not a sustainable support scheme."
+    },
+    {
+      "website": "http://www.modwsgi.org/",
+      "id": 61,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "mod_wsgi",
+      "function": "Web deployment",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@GrahamDumpleton"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://mumble.info",
+      "id": 144,
+      "added": "https://github.com/Kissaki",
+      "funding_type": [],
+      "name": "Mumble VoIP",
+      "function": "Mumble is the biggest free and open source VoIP used primarily by gamers and other online communities, worldwide.",
+      "license": "mit",
+      "languages": [
+        "English",
+        "C++"
+      ],
+      "needs": "Contributors, Community support,\r\npossibly developer financing.",
+      "maintainers": [
+        "https://github.com/orgs/mumble-voip/people"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://musical-artifacts.com",
+      "id": 139,
+      "added": "lfzawacki",
+      "funding_type": [],
+      "name": "Musical Artifacts",
+      "function": "Musical Artifacts is a web application with the objective of helping musicians find, share and preserve the 'artifacts' that they use for producing their music. It also aims to be a de facto guideline of how to best preserve these artifacts so that they're are useful to the biggest number of people possible.",
+      "license": "mit",
+      "languages": [
+        "free music",
+        "linux audio",
+        "open source musicians",
+        "ruby"
+      ],
+      "needs": "Contributors of content (musical 'artifacts'), code, translations or money donations for hosting. See https://github.com/lfzawacki/musical-artifacts/wiki/How-To-Contribute",
+      "maintainers": [
+        "lfzawacki",
+        "@lfzawacki"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Currently the work is done as a hobby in my free time and  funding for the server and file hosting comes out of my pocket.  Funding would help with the development of new features and would enable the site to grow more."
+    },
+    {
+      "website": "http://named-data.net/",
+      "id": 108,
+      "added": "https://github.com/kxra, http://twitter.com/kxra",
+      "funding_type": [],
+      "name": "Named Data Networking",
+      "function": "Next Generation Future Internet Architecture",
+      "license": "unknown",
+      "languages": [
+        "Content Centric Networking"
+      ],
+      "needs": "funding, developers, partners, university research assistance",
+      "maintainers": [
+        "https://github.com/named-data",
+        "https://twitter.com/nameddata"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.netbsd.org",
+      "id": 14,
+      "added": "@jschauma",
+      "funding_type": [],
+      "name": "NetBSD",
+      "function": "OS",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        "billc@netbsd.org",
+        "christos@netbsd.org",
+        "reed@netbsd.org"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://nwtime.org/",
+      "id": 45,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "NTP",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        "Harlan Stenn"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/bryanedds/FPWorks",
+      "id": 52,
+      "added": "@bryanedds",
+      "funding_type": [],
+      "name": "Nu Game Engine",
+      "function": "Game Engine",
+      "license": "unknown",
+      "languages": [
+        ""
+      ],
+      "needs": "World's first functional (as in FP) game engine, but lacking 3D features due to resource constraints.",
+      "maintainers": [
+        "@bryanedds"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Stable 1.0+, but development stalled due to no promise of needed resources."
+    },
+    {
+      "website": "http://objectpath.org",
+      "id": 137,
+      "added": "@elamustrun",
+      "funding_type": [],
+      "name": "ObjectPath",
+      "function": "The agile NoSQL query language for semi-structured data\r\n\r\n#Python #NoSQL #Javascript #JSON #nested-array-object\r\n\r\nObjectPath is a query language similar to XPath or JSONPath, but much more powerful thanks to embedded arithmetic calculations, comparison mechanisms and built-in functions. This makes the language more like SQL in terms of expressiveness, but it works over JSON documents rather than relations. ObjectPath can be considered a full-featured expression language. Besides selector mechanism there is also boolean logic, type system and string concatenation available. On top of that, the language implementations (Python at the moment; Javascript is in beta!) are secure and relatively fast.",
+      "license": "bsd_2",
+      "languages": [
+        "python",
+        "javascript"
+      ],
+      "needs": "Contributors are needed to develop, document and promote the project especially the JS version (BSD).",
+      "maintainers": [
+        "https://github.com/adriank"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.odoo.com/",
+      "id": 70,
+      "added": "@expansa",
+      "funding_type": [],
+      "name": "Odoo",
+      "function": "Open ERP",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Community contribution to modules development would move further business solutions development",
+      "maintainers": [
+        "https://github.com/odoo/odoo"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.openbsdfoundation.org/",
+      "id": 161,
+      "added": "@quobit",
+      "funding_type": [
+        "corporate",
+        "individual"
+      ],
+      "name": "OpenBSD Foundation",
+      "function": "The OpenBSD Foundation is a Canadian not-for-profit corporation which exists to support OpenBSD and related projects such as OpenSSH, OpenBGPD, OpenNTPD, OpenSMTPD, LibreSSL, and mandoc. \r\n\r\nThe OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standardization, correctness, proactive security and integrated cryptography.",
+      "license": "bsd_2",
+      "languages": [
+        "C",
+        "shell script (ksh)",
+        "Perl"
+      ],
+      "needs": "",
+      "maintainers": [
+        "directors@openbsdfoundation.org"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": "Currently underfunded"
+    },
+    {
+      "website": "https://github.com/osbridge/openconferenceware",
+      "id": 85,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "OpenConferenceWare",
+      "function": "conference organizing",
+      "license": "unknown",
+      "languages": [
+        "Rails"
+      ],
+      "needs": "Design, marketing, uprades to new versions of dependencies, code review",
+      "maintainers": [
+        "https://github.com/reidab"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "stewarded by Stumptown Syndicate, Portland-area nonprofit"
+    },
+    {
+      "website": "https://www.openssl.org/",
+      "id": 3,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "OpenSSL",
+      "function": "Crypto",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "http://arstechnica.com/information-technology/2014/04/tech-giants-chastened-by-heartbleed-finally-agree-to-fund-openssl/",
+      "maintainers": [
+        "Steve Marquess"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK"
+    },
+    {
+      "website": "https://openstack.org",
+      "id": 42,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "OpenStack",
+      "function": "Cloud management",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://wiki.openstack.org/wiki/Launchpad_Teams_and_Gerrit_Groups"
+      ],
+      "funding_status": "well_funded",
+      "funding_status_notes": "OK - *VERY* well funded development"
+    },
+    {
+      "website": "https://openwrt.org/",
+      "id": 31,
+      "added": "@nemesisdesign",
+      "funding_type": [],
+      "name": "OpenWRT",
+      "function": "Networking",
+      "license": "unknown",
+      "languages": [
+        "Linux"
+      ],
+      "needs": "More resources are needed to build the next generation open source wifi 802.11 ac driver, to find out more, please see \"Wireless Drivers: Freedom Considered Harmful?\" https://www.youtube.com/watch?v=niu14NoLeQc",
+      "maintainers": [
+        "https://github.com/orgs/openwrt/people"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Really needs help with open source wifi drivers and enforcing the GPL license. Implications for the rest of the Linux community."
+    },
+    {
+      "website": "http://papaparse.com",
+      "id": 148,
+      "added": "mholt",
+      "funding_type": [],
+      "name": "Papa Parse",
+      "function": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+      "license": "mit",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "Regular funding or sponsorship by companies and organizations who rely on Papa Parse",
+      "maintainers": [
+        "github.com/mholt",
+        "twitter.com/mholt6"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://paramiko.org",
+      "id": 145,
+      "added": "https://github.com/bitprophet",
+      "funding_type": [],
+      "name": "Paramiko",
+      "function": "SSH-based system administration & file transfer. Used in all sorts of Python applications such as deploy tools, configuration management systems, backup apps, as well as in an ad-hoc manner.",
+      "license": "lgpl",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Funding for existing maintainer's dev time & assistance with support tasks such as ticket triage.",
+      "maintainers": [
+        "https://github.com/bitprophet"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Maintainer really wants somebody to hire him to work on it & related projects 50+% of the time."
+    },
+    {
+      "website": "http://pgcli.com",
+      "id": 168,
+      "added": "https://twitter.com/amjithr",
+      "funding_type": [
+        "corporate",
+        "individual"
+      ],
+      "name": "pgcli",
+      "function": "Command line Postgres Client with auto-completion and syntax highlighting.",
+      "license": "bsd_3",
+      "languages": [
+        "python"
+      ],
+      "needs": "Funding.",
+      "maintainers": [
+        "https://github.com/amjith",
+        "amjith.r@gmail.com",
+        "https://twitter.com/amjithr"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/ariya/phantomjs",
+      "id": 29,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "PhantomJS",
+      "function": "headless browser",
+      "license": "unknown",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "Bug triage, code review, release management",
+      "maintainers": [
+        "https://github.com/ariya"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Belongs to no legal entity, has no ability to take funding, has many users "
+    },
+    {
+      "website": "https://github.com/pypa/pip",
+      "id": 71,
+      "added": "techtonik@gmail.com",
+      "funding_type": [
+        "corporate"
+      ],
+      "name": "pip",
+      "function": "Primary packaging tool",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "@dstufft works full-time on Python packaging via HPE, including on pip, but this is a big project that could still use more support.",
+      "maintainers": [
+        "https://github.com/pypa/pip/graphs/contributors"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": "Funded via HPE (they hired @dstufft to work on Python packaging)"
+    },
+    {
+      "website": "http://plone.org",
+      "id": 117,
+      "added": "https://github.com/jean/",
+      "funding_type": [],
+      "name": "Plone",
+      "function": "CMS",
+      "license": "unknown",
+      "languages": [
+        "English",
+        "German",
+        "Spanish",
+        "Portuguese",
+        "Italian",
+        "Dutch",
+        "Finnish"
+      ],
+      "needs": "Core development funding",
+      "maintainers": [
+        "https://github.com/plone/"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Plone is supported by members of its Foundation, mostly SMEs who use Plone in their business. There is limited funding for community infrastructure, documentation, and marketing Plone as a brand."
+    },
+    {
+      "website": "http://postgrest.com/",
+      "id": 158,
+      "added": "https://github.com/begriffs",
+      "funding_type": [],
+      "name": "PostgREST",
+      "function": "PostgREST is a standalone web server that turns your database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations. It is the most popular Haskell project on Github, and is used in production by several companies to serve fast, documented, and standards-compliant APIs.",
+      "license": "mit",
+      "languages": [
+        "Haskell",
+        "PostgreSQL"
+      ],
+      "needs": "This project is maintained by the volunteer efforts of several contributors. We have ambitious goals for our 0.4 release and funding would allow maintainers to dedicate more time to achieve those goals.",
+      "maintainers": [
+        "https://github.com/begriffs"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/project-iris",
+      "id": 149,
+      "added": "https://github.com/ibmendoza",
+      "funding_type": [],
+      "name": "Project Iris",
+      "function": "Project Iris is the hallmark of usability as far as clustering and messaging transport are concerned (not to mention RPC and support for messaging patterns). I have documented it at http://itmarketplace.net/irismq. This is a project that I also included with Software for Humans (https://www.indiegogo.com/projects/software-for-humans). Any help or at least a token of gratitude would be highly appreciated by its sole developer",
+      "license": "gagpl3",
+      "languages": [
+        "Go"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://github.com/karalabe"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/oci-pronghorn",
+      "id": 114,
+      "added": "nathantippy, tippyn@ociweb.com, @nathantippy",
+      "funding_type": [],
+      "name": "Pronghorn OSS",
+      "function": "Small footprint actor framework for Java stream processing",
+      "license": "unknown",
+      "languages": [
+        "Java",
+        "others"
+      ],
+      "needs": "The Pronghorn actor framework is focused on garbage free, lock free graph processing suitable for both embedded and enterprise use.  The internal serialization format for the stream data was derived from open source techniques used in the financial industry.  We have recently generated a comparison report showing that it is 3x more effective than ProtocolBuffers, Avro, Kryo and Thrift.  \r\n\r\nhttps://spideroak.com/browse/share/Tippy/Pronghorn/Reports/\r\nhttps://github.com/oci-pronghorn/ProtocolTestProject\r\n\r\nThe entire OSS framework could use support however in the short term we need to finish the code generators and documentation necessary so this new serialization mechanism can be a drop in replacement for those using ProtocolBuffers, Avro  or Thrift.  The algorithms are proven to work and could be used to significantly save cloud storage and download costs or to streamline internal data processing.\r\n\r\nThe work up to now has been done in Java however this serialization format also needs to be implemented in both C++ and JavaScript.",
+      "maintainers": [
+        "nathantippy",
+        "tippyn@ociweb.com",
+        "@nathantippy"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "This project has been developed by Nathan Tippy (when he has free time) with support from ociweb.com.  We need funding so Nathan can focus on this full time and bring in additional engineering and documentation expertise."
+    },
+    {
+      "website": "http://syncwith.us/",
+      "id": 115,
+      "added": "https://github.com/kxra, https://twitter.com/kxra",
+      "funding_type": [],
+      "name": "Prophet (and Simple Defects)",
+      "function": "Peer-to-peer Database (and Bug Tracker)",
+      "license": "unknown",
+      "languages": [
+        "Databases for a collaborative web"
+      ],
+      "needs": "A new maintainer",
+      "maintainers": [
+        "https://twitter.com/spang",
+        "https://github.com/spang"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://coko.foundation",
+      "id": 95,
+      "added": "adam@coko.foundation",
+      "funding_type": [],
+      "name": "PubSweet",
+      "function": "publishing framework",
+      "license": "unknown",
+      "languages": [
+        "Node",
+        "JS"
+      ],
+      "needs": "We need good JS devs to build components to push scientific publishing into a better place, need foundational funding",
+      "maintainers": [
+        "@juretriglav"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Started in Oct. Going well, small but great team. at 0.1 presently"
+    },
+    {
+      "website": "http://pump.io/",
+      "id": 32,
+      "added": "Sumana Harihareswara @brainwane",
+      "funding_type": [],
+      "name": "Pump.io",
+      "function": "microblogging",
+      "license": "unknown",
+      "languages": [
+        "Node.js"
+      ],
+      "needs": "bugfixes, release management, marketing",
+      "maintainers": [
+        "Evan Prodromou https://github.com/e14n"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "stewarded by E14N"
+    },
+    {
+      "website": "https://github.com/asweigart/pyautogui",
+      "id": 51,
+      "added": "@AlSweigart",
+      "funding_type": [],
+      "name": "PyAutoGUI",
+      "function": "GUI automation",
+      "license": "unknown",
+      "languages": [
+        ""
+      ],
+      "needs": "The code that's needed is os-specifc stuff that you'll have to scrounge from StackOverflow & Google. Not a big codebase, newbie friendly. Testing on non-Windows platforms also needed. Code & testing is needed more than money.",
+      "maintainers": [
+        "@AlSweigart"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "OK, could be better"
+    },
+    {
+      "website": "https://github.com/Legrandin/pycryptodome",
+      "id": 48,
+      "added": "@nbadg",
+      "funding_type": [],
+      "name": "Pycryptodome",
+      "function": "Crypto",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "External audit",
+      "maintainers": [
+        "github/Legrandin"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Fork of pycrypto"
+    },
+    {
+      "website": "http://www.pylonsproject.org",
+      "id": 53,
+      "added": "@bertjwregeer",
+      "funding_type": [],
+      "name": "Pylons Project",
+      "function": "Web Framework and other tools for web",
+      "license": "unknown",
+      "languages": [
+        ""
+      ],
+      "needs": "Web design/logo design for the project, as well as providing a much better overview of what the Pylons Project is/does",
+      "maintainers": [
+        "@mmerickel/@chrismcdonough/@tresseaver/@bertjwregeer/@blaflamme/@steve_piercy"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://pypi.python.org/pypi",
+      "id": 46,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "PyPI",
+      "function": "Packaging repo",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Developers, maintenance and hosting",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://pypy.org/",
+      "id": 83,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "PyPy",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "\n",
+      "maintainers": [
+        "@fijall"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://en.wikipedia.org/wiki/PySide",
+      "id": 18,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "PySide",
+      "function": "Qt Bindings",
+      "license": "unknown",
+      "languages": [
+        "C++",
+        "Python"
+      ],
+      "needs": "Add support for Qt5, port binding generator (shiboken) from C++ to Python for better maintainability, or research what to choose from existing",
+      "maintainers": [
+        "@ctismer",
+        "Matti Airas"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://pypi.python.org/pypi/pyspf/",
+      "id": 82,
+      "added": "@gabinante",
+      "funding_type": [],
+      "name": "PySPF",
+      "function": "Validates SPF Records",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "SPF Check sometimes fails, seemingly at random... I can't figure it out :(",
+      "maintainers": [
+        "Stuart Gathman stuart@gathman.org\nScott Kitterman scott@kitterman.com"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Stagnant"
+    },
+    {
+      "website": "http://pytest.org/latest/",
+      "id": 55,
+      "added": "@hackebrot",
+      "funding_type": [],
+      "name": "pytest",
+      "function": "Testing",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Funding for a dev sprint https://mail.python.org/pipermail/pytest-dev/2016-January/003237.html",
+      "maintainers": [
+        "@pytestdotorg"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.qubes-os.org",
+      "id": 162,
+      "added": "@QubesOS",
+      "funding_type": [],
+      "name": "Qubes OS",
+      "function": "A reasonably secure operating system.",
+      "license": "gpl",
+      "languages": [
+        "C",
+        "C++",
+        "Python",
+        "Perl",
+        "Ruby",
+        "Shell",
+        "etc."
+      ],
+      "needs": "https://www.qubes-os.org/join/",
+      "maintainers": [
+        "https://www.qubes-os.org/team/"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.r-project.org/",
+      "id": 60,
+      "added": "@gurinovich",
+      "funding_type": [],
+      "name": "R",
+      "function": "Programming Language for Data Analysis",
+      "license": "unknown",
+      "languages": [
+        "R"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://www.r-project.org/contributors.html"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.reactiveui.net/",
+      "id": 131,
+      "added": "github - ghuntley, email - ghuntley@ghuntley.com, twitter - geoffreyhuntley",
+      "funding_type": [],
+      "name": "ReactiveUI",
+      "function": "Whatâ€™s ReactiveUI you ask? Well it is a MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms, WPF, Windows Forms, Windows Phone 8, Windows Store and Universal Windows Platform (UWP) are amongst our supported platforms.\r\n\r\nWe deeply believe that mutable state is evil and that every bit of your application should be testable, even tricky things such as routing, time/schedulers and provide methods to make complexity that is usually hard to test, absolute child's play.\r\n\r\nYou see, most modern programming today is basically imperative, meaning it models the traditional fetch-execute cycle of a CPU. Perform and instruction, fetch the next one. Perform that one, and so on. For decades, programmers have had to mould their brains to fit the paradigm of the CPU.\r\nImperative Programming is Dangerous\r\n\r\nWhen we rely on hoping that the behavior that emerges from a program is correct, and that reliance is based on nothing more than a programmer's correctness, then we can easily find ourselves in a sticky situation. We can try and mitigate the costs of imperative programming with things like unit tests or integration tests, but why mitigate the costs when there's a better way?\r\n\r\nInstead of telling a computer how to do its job, why don't we just tell it what it's job is and let it figure the rest out? The bottom line is imperative programming is error-prone and relies too heavily on the infallibility of the programmer.\r\n\r\nInstead of imperative programming, we can use a new paradigm to structure our code. This paradigm is called Functional Reactive Programming- http://docs.reactiveui.net/en/fundamentals/functional-reactive-programming.html\r\n\r\nReactiveUI was the brain child of Paul Betts (ex GitHub, now Electron wizard at Slack) and is the framework behind Github Desktop for Windows <https://desktop.github.com> amongst other things. The design principals of ReactiveUI inspired the creation of the super popular (12,000+ stars on GitHub) ReactiveCocoa framework. \r\n\r\nReactiveUI was recently nominated as the #1 .NET package of the week by the official Microsoft .NET blog - http://blogs.msdn.com/b/dotnet/archive/2016/01/05/the-week-in-net-1-5-2015.aspx",
+      "license": "mit",
+      "languages": [
+        "dotnet",
+        "csharp",
+        "xamarin",
+        "android",
+        "ios",
+        "wpf",
+        "uwp"
+      ],
+      "needs": "Community growth is [currently] hindered by lack of quality documentation and samples. Actively working on rectifying this but time spent on growing the community and general project maintenance detracts from shipping code. \r\n\r\nThe ReactiveUI maintainers are super interested in making Functional Reactive Programming the norm. ReactiveUI has our very own Slack organization which contains some of the best user interface/reactive extension developers in the industry and we are looking for seniors/rookies alike who wish to aide with FRP crossing the chasm, into mainstream adoption.\r\n\r\nCome join us in Slack < https://github.com/reactiveui/ReactiveUI/blob/rxui7-master/README.md#slack > for a ride and personal growth like no other.",
+      "maintainers": [
+        "github - ghuntley",
+        "email - ghuntley@ghuntley.com",
+        "twitter - geoffreyhuntley"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://readthedocs.org",
+      "id": 89,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Read The Docs",
+      "function": "Documentation",
+      "license": "unknown",
+      "languages": [
+        "Universal"
+      ],
+      "needs": "Funding for User Support & Operations",
+      "maintainers": [
+        "@ericholscher"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://redash.io/",
+      "id": 84,
+      "added": "@arikfr",
+      "funding_type": [],
+      "name": "Redash",
+      "function": "Data Collaboration Tool",
+      "license": "unknown",
+      "languages": [
+        "Python",
+        "Javascript"
+      ],
+      "needs": "Active contributors for both code and documentation (maybe even more important) + companies to use the hosted offering to support the project for the long term.",
+      "maintainers": [
+        "https://github.com/arikfr"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "My employer who was sponsoring the project was shut down 2 months ago. Since then I'm working on this project full time (with no salary), looking for a way to make it sustainable (currently exploring the option of offering a hosted version)."
+    },
+    {
+      "website": "http://docs.python-requests.org/en/latest/",
+      "id": 30,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Requests",
+      "function": "HTTP client library",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@Lukasaoz"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "widely used in the Python ecosystem"
+    },
+    {
+      "website": "https://www.reread.io",
+      "id": 91,
+      "added": "@winstonyw",
+      "funding_type": [],
+      "name": "reread.io",
+      "function": "SaaS",
+      "license": "unknown",
+      "languages": [
+        "Rails"
+      ],
+      "needs": "No revenue model",
+      "maintainers": [
+        "@winstonyw"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Wrote a blog post here about its status https://medium.com/jolly-good-notes/learnings-from-building-reread-io-46f57871e124. Currently there are about 300 active users, am incurring costs but no revenue model yet."
+    },
+    {
+      "website": "http://riemann.io/",
+      "id": 13,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Riemann",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@aphyr"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://roundup-tracker.org",
+      "id": 68,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "Roundup Tracker",
+      "function": "Issue Tracker",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Bug tracker that is powering https://bugs.python.org needs support to review, audit for security issues and integrate patches from Python community and GSoC project",
+      "maintainers": [
+        "http://www.roundup-tracker.org/contact.html"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://rubybench.org/",
+      "id": 80,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "RubyBench",
+      "function": "Long Running Benchmarks for Ruby Projects",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://github.com/tgxworld"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Has interest, getting some traction/momentum. Still very lean on funding and time investment, disproportionate to it's importance to the Ruby community."
+    },
+    {
+      "website": "https://rubygems.org/",
+      "id": 62,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "RubyGems",
+      "function": "Ruby package manager and hosting for Ruby gems (i.e. \"packages\")",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "",
+      "maintainers": [
+        "https://github.com/orgs/rubygems/people"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "essential Ruby infrastructure"
+    },
+    {
+      "website": "https://rubytogether.org/",
+      "id": 121,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "Ruby Together",
+      "function": "Community funding initiative to pay for developers to work on improving Bundler, RubyGems, and other shared tools",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Funding to accelerate a good vision. Seems like a great idea, good roadmap, significant membership to inform the vision. This initiative hasn't been out long, but accelerating this would be impactful to the entire Ruby community.",
+      "maintainers": [
+        "https://rubytogether.org/members"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Hasn't raised much funding (per https://rubytogether.org/roadmap)."
+    },
+    {
+      "website": "https://github.com/rvm/rvm",
+      "id": 78,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "RVM",
+      "function": "Ruby version management",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Despite being critical to many projects in the Ruby community, this (and some similiar) project doesn't see enough development. Funding is a key factor.",
+      "maintainers": [
+        "https://github.com/mpapis"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Treading water. Author has tried various funding campaigns. Could use funding and more core contributors who can help the author with overcoming the project's technical debt."
+    },
+    {
+      "website": "http://scons.org/",
+      "id": 73,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "SCons",
+      "function": "Build system",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "SCons needs build graph visualization (and Python 3 port research)",
+      "maintainers": [
+        "https://bitbucket.org/bdbaddog/"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://secushare.org/",
+      "id": 104,
+      "added": "https://twitter.com/kxra, https://github.com/kxra",
+      "funding_type": [],
+      "name": "SecuShare",
+      "function": "Decentralized, Friend-to-Friend, Encrypted, Secure Communication, File Sharing, and Social Networking",
+      "license": "unknown",
+      "languages": [
+        "PSYC protocol implementation under GNUnet anonymity layer"
+      ],
+      "needs": "significant funding, competant programmers",
+      "maintainers": [
+        "https://twitter.com/symlynX",
+        "https://twitter.com/secushare",
+        "https://twitter.com/vonlynx"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://pypi.python.org/pypi/setuptools",
+      "id": 44,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Setuptools",
+      "function": "Packaging",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@jaraco"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "widely used in the Python ecosystem"
+    },
+    {
+      "website": "https://snowdrift.coop",
+      "id": 143,
+      "added": "@chreekat",
+      "funding_type": [
+        "individual",
+        "foundation"
+      ],
+      "name": "Snowdrift.coop",
+      "function": "A platform for crowdfunding Free/Libre/Open projects (not just software). Uses a novel matching pledge to overcome the snowdrift dilemma facing the funding of public goods. Snowdrift.coop is itself freely-licensed (AGPL) and plans to be supported through its own platform. Work in progress. Hopefully Snowdrift will someday benefit all the projects on this list!",
+      "license": "gagpl3",
+      "languages": [
+        "Haskell"
+      ],
+      "needs": "People with co-op experience, money handling experience, Haskell experience, or no experience at all!",
+      "maintainers": [
+        "admin@snowdrift.coop",
+        "@chreekat",
+        "@SnowdriftCoop",
+        "https://git.gnu.io/groups/snowdrift"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": "https://snowdrift.coop/p/snowdrift/w/en/accounting"
+    },
+    {
+      "website": "http://www.socialharvest.io",
+      "id": 159,
+      "added": "https://github.com/tmaiaroto, tom@socialharvest.io",
+      "funding_type": [
+        "individual"
+      ],
+      "name": "Social Harvest",
+      "function": "Social Harvest is an open-source social media analytics platform. The function is to retrieve data from social media networks (Facebook, Twitter, Instagram, Google+, and ultimately more) for a given set of criteria to ultimately generate reports and useful insights for users. It targets small businesses, students, educators, researchers, and other individuals who can't justify the expense of these monitoring and listening tools (averaging $500/mo.+). However, it's of course open-source so nothing would prevent enterprise user either.",
+      "license": "gpl",
+      "languages": [
+        "Go",
+        "JavaScript"
+      ],
+      "needs": "Development support mainly, but also QA.",
+      "maintainers": [
+        "https://github.com/tmaiaroto",
+        "https://twitter.com/tmaiaroto",
+        "tom@socialharvest.io"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Self-funded to date for minor expenses. Certainly open to funding, but the open-source goals and license must stand."
+    },
+    {
+      "website": "https://sfconservancy.org/",
+      "id": 122,
+      "added": "@Binarytales",
+      "funding_type": [],
+      "name": "Software Freedom Conservancy",
+      "function": "Legal",
+      "license": "unknown",
+      "languages": [
+        "FLOSS"
+      ],
+      "needs": "Funding\r\n\r\nActive fundraising drive at present: https://sfconservancy.org/supporter/",
+      "maintainers": [
+        "info@sfconservancy.org"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Funding for specific projects has failed in the past: https://sfconservancy.org/npoacct/"
+    },
+    {
+      "website": "http://somosazucar.org/",
+      "id": 155,
+      "added": "https://github.com/icarito",
+      "funding_type": [
+        "individual",
+        "foundation",
+        "consulting_services"
+      ],
+      "name": "Somos Azucar R&D (Projects Hexoquinasa/Huayruro)",
+      "function": "Providing children with an modern free stack learning environment (as opposed to desktop environment) that is hackable and accessible to facilitate reflection and learning to learn.",
+      "license": "gpl",
+      "languages": [
+        "Sugar (Constructionist Learning Environment)"
+      ],
+      "needs": "Funding",
+      "maintainers": [
+        "https://github.com/tchx84"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Lost support from peruvian government mostly due to lobby by proprietary competitors who lock down technology. Our software offers support to roughly 800.000 OLPC XO laptops deployed in Peru providing support for native languages among other improvements, which are shared back with upstream Sugar.\r\nSupported by volunteers."
+    },
+    {
+      "website": "https://pythonhosted.org/spyder/",
+      "id": 72,
+      "added": "techtonik@gmail.com",
+      "funding_type": [],
+      "name": "Spyder",
+      "function": "Scientific IDE",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Only one funded developer is too little for a full-fledged IDE with IPython integration",
+      "maintainers": [
+        "https://github.com/spyder-ide/spyder/graphs/contributors"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.sqlalchemy.org",
+      "id": 167,
+      "added": "@zzzeek",
+      "funding_type": [
+        "corporate"
+      ],
+      "name": "SQLAlchemy",
+      "function": "Python database access toolkit and object relational mapper.  Provides database access patterns against a wide variety of Python DBAPI implementations with or without use of object relational mapping.",
+      "license": "mit",
+      "languages": [
+        "Python"
+      ],
+      "needs": "test infrastructure (e.g. servers), documentation editors / writers, a book author (we have a book contract that's been stagnant for 10 years), cleanup of old unit tests, driver maintenance, code review, bug triage, mailing list and IRC support.",
+      "maintainers": [
+        "@zzzeek"
+      ],
+      "funding_status": "somewhat_funded",
+      "funding_status_notes": "I work for Red Hat which allows me to spend some of my time maintaining SQLAlchemy.   SQLAlchemy is also critical to the infrastructure of the Openstack project."
+    },
+    {
+      "website": "https://github.com/tmm1/stackprof",
+      "id": 75,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "Stackprof",
+      "function": "Code profiling",
+      "license": "unknown",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Ruby needs more investment in serious performance tooling, of which this is a fine example.",
+      "maintainers": [
+        "https://github.com/tmm1"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/SublimeHaskell/SublimeHaskell",
+      "id": 154,
+      "added": "github.com/mvoidex",
+      "funding_type": [],
+      "name": "SublimeHaskell",
+      "function": "SublimeText plugin for Haskell. Features smart completion, cabal/stack building, check/lint, errors/warnings/hints highlighting, go to definition/module, declaration docs, autofix (apply some hints and fix some warnings).",
+      "license": "unknown",
+      "languages": [
+        "Haskell"
+      ],
+      "needs": "Contributors",
+      "maintainers": [
+        "github.com/mvoidex",
+        "github.com/nh2"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://swirl-project.org/",
+      "id": 156,
+      "added": "dch@skunkwerks.at",
+      "funding_type": [],
+      "name": "swirl",
+      "function": "Making peer-to-peer streaming as easy as taking a picture, backed by a carrier-grade streaming service.",
+      "license": "apache_2",
+      "languages": [
+        "Erlang"
+      ],
+      "needs": "client library developers - ios/swift, android, Linux & FreeBSD, javascript\r\nerlang developers",
+      "maintainers": [
+        "dch@skunkwerks.at"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Initial grant from NLNet is getting towards the close. I'd love to be able to do more with the project - funding & more active contributors would help a great deal."
+    },
+    {
+      "website": "http://www.sympy.org",
+      "id": 127,
+      "added": "hargup,hargup@protonmail.ch,hargup13",
+      "funding_type": [],
+      "name": "SymPy",
+      "function": "",
+      "license": "bsd_3",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Need more longterm contributors.",
+      "maintainers": [
+        "asmeurer",
+        "asmeurer",
+        "asmeurer"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://thethingsnetwork.org/",
+      "id": 23,
+      "added": "@gnz",
+      "funding_type": [],
+      "name": "The Things Network",
+      "function": "IoT platform",
+      "license": "unknown",
+      "languages": [
+        "Go"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@wienke"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://pybee.org/toga",
+      "id": 56,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "Toga",
+      "function": "GUI framework",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Developers and developer funding reqd",
+      "maintainers": [
+        "@pybeeware"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Early stage development"
+    },
+    {
+      "website": "https://www.percona.com/software/mysql-database/percona-tokudb",
+      "id": 113,
+      "added": "https://twitter.com/kxra/, https://github.com/kxra",
+      "funding_type": [],
+      "name": "TokuDB",
+      "function": "Next Generation Database using Fractal Tree Indexing",
+      "license": "unknown",
+      "languages": [
+        "GNU/Linux",
+        "BSD",
+        "and Unix environments"
+      ],
+      "needs": "development, adoption, partners",
+      "maintainers": [
+        "https://github.com/percona/tokudb-engine",
+        "https://twitter.com/Percona"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://tox.chat/",
+      "id": 106,
+      "added": "https://github.com/kxra, http://twitter.com/kxra",
+      "funding_type": [],
+      "name": "Tox",
+      "function": "Decentralized/encrypted text/audio/video messaging/conferencing",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "funding, android & ios developers to maintain ports",
+      "maintainers": [
+        "https://twitter.com/toxproject",
+        "https://github.com/irungentoo/toxcore"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://twistedmatrix.com/",
+      "id": 123,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Twisted",
+      "function": "event-driven networking engine",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@glyph"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://github.com/twitter/typeahead.js",
+      "id": 27,
+      "added": "@ansonhoyt",
+      "funding_type": [],
+      "name": "Twitter Typeahead",
+      "function": "Extends Twitter Bootstrap with autocomplete capability",
+      "license": "unknown",
+      "languages": [
+        "Javascript"
+      ],
+      "needs": "While very useful and popular for any Bootstrap sites, no longer is getting updates from Twitter staff, so has languished without maintenance. Is a great project, but has warning signs of dying due to lack of current investment.",
+      "maintainers": [
+        "https://github.com/jharding"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Maintenance has dried up. Author has tried to find a new maintainer."
+    },
+    {
+      "website": "http://www.iana.org/time-zones",
+      "id": 135,
+      "added": "@Paul_Bone",
+      "funding_type": [],
+      "name": "tzdata/zoneinfo",
+      "function": "Timezone database including historical data, daylight savings time and leap seconds.",
+      "license": "other",
+      "languages": [
+        "C",
+        "Data"
+      ],
+      "needs": "Seems okay.  There was come concern a few years ago since almost all software relies on this data either directly or indirectly.  Relatively speaking it is a thankless job.",
+      "maintainers": [
+        "INAN"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Seems to be looked after by INAN in recent years."
+    },
+    {
+      "website": "https://github.com/shazow/urllib3",
+      "id": 35,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "urllib3",
+      "function": "HTTP library",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@shazow"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://www.varnish-cache.org/",
+      "id": 4,
+      "added": "@nayafia",
+      "funding_type": [],
+      "name": "Varnish",
+      "function": "",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "",
+      "maintainers": [
+        "@bsdphk"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://visitmeet.herokuapp.com/",
+      "id": 169,
+      "added": "github.com/bishisht",
+      "funding_type": [
+        "individual",
+        "foundation",
+        "academia"
+      ],
+      "name": "VisitMeet",
+      "function": "Cheapeast way to travel, make earth a better place to travel.",
+      "license": "gpl",
+      "languages": [
+        "Ruby"
+      ],
+      "needs": "Need financial help to develop further.",
+      "maintainers": [
+        "github.com/bishisht",
+        "github.com/kathyonu"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://pybee.org/voc",
+      "id": 57,
+      "added": "@freakboy3742",
+      "funding_type": [],
+      "name": "VOC",
+      "function": "Java cross-compiler",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "Developers and developer funding reqd",
+      "maintainers": [
+        "@pybeeware"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "Early stage development"
+    },
+    {
+      "website": "https://github.com/dthree/vorpal",
+      "id": 93,
+      "added": "@dthree",
+      "funding_type": [],
+      "name": "Vorpal",
+      "function": "Framework for CLIs",
+      "license": "unknown",
+      "languages": [
+        "Node"
+      ],
+      "needs": "Would like dedicated maintainers, and help spreading the project!",
+      "maintainers": [
+        "@dthree"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "https://wealth.forcrowd.org",
+      "id": 138,
+      "added": "serkan.holat@forcrowd.org, https://github.com/coni2k",
+      "funding_type": [],
+      "name": "Wealth Economy",
+      "function": "Wealth Economy is an experimental project that aims to create a new type of income model for the organizations, by measuring their total benefits to the society.",
+      "license": "mit",
+      "languages": [
+        ".NET / C# / angular"
+      ],
+      "needs": "Trying to get to Beta stage, content & technical feedback would be great.",
+      "maintainers": [
+        "serkan.holat@forcrowd.org",
+        "https://github.com/coni2k"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
+    },
+    {
+      "website": "http://webpack.github.io/",
+      "id": 152,
+      "added": "jhnns",
+      "funding_type": [],
+      "name": "webpack",
+      "function": "webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.\r\n\r\n- Bundles both CommonJs and AMD modules (even combined).\r\n- Can create a single bundle or multiple chunks that are asynchronously loaded at runtime (to reduce initial loading time).\r\n- Dependencies are resolved during compilation reducing the runtime size.\r\n- Loaders can preprocess files while compiling, e.g. coffeescript to JavaScript, handlebars strings to compiled functions, images to Base64, etc.\r\n- Highly modular plugin system to do whatever else your application requires.",
+      "license": "mit",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "",
+      "maintainers": [
+        "sokra",
+        "jhnns"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "5$/week via gratipay https://gratipay.com/webpack/ ;)"
+    },
+    {
+      "website": "https://www.winehq.org/",
+      "id": 49,
+      "added": "@carribeiro",
+      "funding_type": [],
+      "name": "Wine",
+      "function": "OS Emulator",
+      "license": "unknown",
+      "languages": [
+        "C"
+      ],
+      "needs": "\"Your donation will go towards paying for things like developer conferences (such as WineConf), supplies, and documentation.\"",
+      "maintainers": [
+        ""
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": "Growing more important as Windows becomes legacy (or at least until MS decides to opens source Windows)"
+    },
+    {
+      "website": "http://yeoman.io",
+      "id": 111,
+      "added": "SBoudrias, admin@simonboudrias.com, @vaxilart",
+      "funding_type": [],
+      "name": "Yeoman",
+      "function": "Scaffold projects structure in any projects",
+      "license": "unknown",
+      "languages": [
+        "JavaScript"
+      ],
+      "needs": "More maintainers, time to focus on project evolution, money to encourage contribution and maintain our servers",
+      "maintainers": [
+        "SBoudrias",
+        "admin@simonboudrias.com",
+        "@vaxilart"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": "We're hoping to raise some donation through https://opencollective.com/yeoman to at least pay for our public servers."
+    },
+    {
+      "website": "http://www.zerodb.io",
+      "id": 76,
+      "added": "@MacLaneWilkison",
+      "funding_type": [],
+      "name": "ZeroDB",
+      "function": "Encrypted database",
+      "license": "unknown",
+      "languages": [
+        "Python"
+      ],
+      "needs": "End-to-end encrypted database that lets you operate on encrypted data",
+      "maintainers": [
+        "https://github.com/michwill"
+      ],
+      "funding_status": "unknown",
+      "funding_status_notes": ""
+    }
+  ]
+}
