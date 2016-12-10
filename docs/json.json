@@ -3203,6 +3203,24 @@
       ],
       "funding_status": "unknown",
       "funding_status_notes": ""
+    },
+    {
+      "website": "http://www.luminusweb.net/",
+      "id": 171,
+      "added": "@yogthos",
+      "funding_type": [],
+      "name": "Luminus",
+      "function": "Web micro-framework",
+      "license": "MIT",
+      "languages": [
+        "Clojure"
+      ],
+      "needs": "More maintainers, time to focus on project evolution, money to encourage contribution",
+      "maintainers": [
+        "https://github.com/yogthos"
+      ],
+      "funding_status": "no_funding",
+      "funding_status_notes": ""
     }
   ]
 }
